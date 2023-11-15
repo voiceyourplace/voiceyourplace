@@ -7,7 +7,7 @@ disqus:
 google-ID: "UA-112060364-2"
 
 menu:
-  - { name: "Curtea de Arges", url: "curtea-de-arges" }
+  - { name: "Curtea de Arges", url: "audio-ghid" }
   - { name: "Audio ghid", url: "audio-ghid" }
   - { name: "Comunitate", url: "comunitate" }
   - { name: "Proiect", url: "proiect" }
