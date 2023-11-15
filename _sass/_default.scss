@@ -3,19 +3,29 @@
 */
 
 .container {
-  width: $container-width;
+  background-color: $brand-color;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
 }
 .container a {
   text-decoration: underline;
 }
 .content-wrapper {
-  padding-top: $header-thickness+10px;
+  padding-top: $header-thickness + 10px;
   margin: auto;
   display: block;
-  width: $container-width - 20px;
+  width: $container-width - 200px;
 }
+
+.right-div {
+  width: 200px;
+}
+
 .content-wrapper h1 {
   margin: 20px 0px 5px;
 }
@@ -26,9 +36,119 @@
     margin-right: auto;
   }
   .content-wrapper {
-    padding-top: $header-thickness+10px;
+    padding-top: $header-thickness + 10px;
     margin: auto;
     display: block;
     width: 95vw;
   }
+}
+
+// Home Page
+
+.container-home {
+  background-color: #ffffff;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.container-home a {
+  text-decoration: underline;
+}
+.content-wrapper-home {
+  padding-top: $header-thickness + 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+  width: $container-width - 200px;
+}
+
+.right-div-home {
+  width: 200px;
+  height: 150px;
+}
+
+.content-wrapper-home h1 {
+  margin: 20px 0px 5px;
+}
+@media (max-width: $container-width) {
+  .container-home {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .content-wrapper-home {
+    padding-top: $header-thickness + 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    width: 95vw;
+  }
+}
+
+// Social Media
+
+.social-media-wrapper {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 6%; 
+  height: 100%;
+  padding: 20px; /* Optional: Add padding for content */
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center; /* Align items with space between them */
+  align-items: center;
+}
+
+.contact-social-media {
+  display: flex;
+  flex-direction: column;
+}
+
+
+// Contact
+
+button {
+  padding: 10px;
+  background-color: $brand-color;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1e1a4e;
+}
+
+input, textarea {
+  padding: 8px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form {
+  width: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 8px;
+}
+
+.contact-form-wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 900px; /* Adjust the width as needed */
 }

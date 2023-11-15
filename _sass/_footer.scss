@@ -1,18 +1,52 @@
 .footer {
-  background: white;
-  color: $brand-color;
+  background: $brand-color;
+  color: #ffffff;
   text-align: center;
   min-height: 56px;
   line-height: 45px;
   width: $container-width;
 }
 .footer a {
-  color: $brand-color;
+  color: #ffffff;
   padding: 0px 10px 0px;
   text-decoration: none;
 }
 @media (max-width: $container-width) {
   .footer {
+    background: $brand-color;
+    color: #ffffff;
+    text-align: center;
+    min-height: 56px;
+    line-height: 45px;
+    width: 95vw;
+  }
+}
+.footer-description {
+  display: block;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  font-size:0.8rem;
+}
+
+
+// Home page
+
+.footer-home {
+  background: white;
+  color: $brand-color;
+  text-align: center;
+  min-height: 56px;
+  line-height: 45px;
+  width: 100%;
+  padding-top: 50px;
+}
+.footer-home a {
+  color: $brand-color;
+  padding: 0px 10px 0px;
+  text-decoration: none;
+}
+@media (max-width: $container-width) {
+  .footer-home {
     background: white;
     color: $brand-color;
     text-align: center;
@@ -21,7 +55,7 @@
     width: 95vw;
   }
 }
-.footer-description {
+.footer-description-home {
   display: block;
   margin-bottom: 1rem;
   color: #9a9a9a;

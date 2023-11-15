@@ -1,0 +1,55 @@
+---
+layout: default-home
+---
+
+<div class="contact-form-wrapper">
+  <div class="page-content">
+    <div style="font-size: 30px;">
+      Urmăriți-ne pe:
+    </div>
+    <div>
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="menu-link-home" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image }}" /></a>
+      {% endfor %}
+    </div>
+    <div style="font-size: 30px;">
+      CONTACT:
+    </div>
+    <div style="font-size: 20px;">
+      <a href = "mailto:voiceyourplace@gmail.com?subject = Feedback&body = Message" style="color: #000000">
+        voiceyourplace@gmail.com
+      </a>
+    </div>
+
+  </div>
+  <form
+    name="simple-contact-form"
+    action="https://formspree.io/f/xrgwvbgp"
+    method="post"
+  >
+    <label for="name">Nume:</label>
+    <input type="text" id="full-name" name="name" required />
+
+    <label for="email">Mail:</label>
+    <input type="email" id="email-address" name="_replyto" required />
+
+    <label for="message">Mesaj:</label>
+    <textarea id="message" name="message" rows="30" required></textarea>
+    <input
+      type="hidden"
+      name="_subject"
+      id="email-subject"
+      value="Contact Form Submission"
+    />
+
+    <button type="submit">Submit</button>
+  </form>
+</div>
+
+<div class="social-media-wrapper">
+  {% for item in site.data.settings.social %}
+  <a href="{{ item.link }}" class="menu-link" target="_blank"
+    ><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i
+  ></a>
+  {% endfor %}
+</div>

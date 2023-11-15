@@ -10,8 +10,8 @@ permalink: /:title
 plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "Voice Your Place"
-description: "Voice Your Place"
+title: "©VoiceYourPlace 2023"
+description: "©VoiceYourPlace 2023"
 author: "Gabriel Mocanu"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
