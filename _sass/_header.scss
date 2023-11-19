@@ -121,6 +121,7 @@
 @media (max-width: $container-width) {
   .site-header-home {
     min-height: 56px;
+    width: 100%;
     position: sticky;
     top: 0;
     background-color: #ffffff;
@@ -130,10 +131,11 @@
 }
 
 .site-header-home img {
-  height: 128px;
+  height: 172px;
+  width: 172px;
   margin-bottom: 0;
-  margin-top: 0;
-  padding-left: 50px;
+  margin-top: 30px;
+  padding-left: 20%;
   float: left;
 }
 
@@ -155,11 +157,14 @@
 .menu-list-home {
   line-height: $header-thickness;
   float: right;
-  padding-right: 10%;
+  margin-top: 30px;
+  padding-right: 20%;
 }
+
 .menu-link-home {
   padding: 5px 10px;
   color: $brand-color;
+  font-size: larger;
 }
 
 @media (min-width: $container-width) {

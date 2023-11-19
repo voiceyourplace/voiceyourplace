@@ -15,10 +15,10 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-  - { icon: "facebook", link: "https://facebook.com/voiceyourplace", title: "FACEBOOK", image: "logo-facebook.svg", image-bar: "logo-bar-facebook.svg" }
   - { icon: "instagram", link: "https://instagram.com/voiceyourplace", title: "INSTAGRAM", image: "logo-instagram.svg", image-bar: "logo-bar-instagram.svg" }
-  - { icon: "youtube", link: "https://www.youtube.com/@VoiceYourPlace", title: "YOUTUBE", image: "logo-youtube.svg", image-bar: "logo-bar-youtube.svg" }
+  - { icon: "facebook", link: "https://facebook.com/voiceyourplace", title: "FACEBOOK", image: "logo-facebook.svg", image-bar: "logo-bar-facebook.svg" }
   - { icon: "soundcloud", link: "https://soundcloud.com/voice-your-place", title: "SOUNDCLOUD", image: "logo-soundcloud.svg", image-bar: "logo-bar-soundcloud.svg" }
+  - { icon: "youtube", link: "https://www.youtube.com/@VoiceYourPlace", title: "YOUTUBE", image: "logo-youtube.svg", image-bar: "logo-bar-youtube.svg" }
   # - { icon: "envelope", link: "voiceyourplace@gmail.com" }
 
 # Customize site text

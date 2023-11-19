@@ -4,14 +4,14 @@
   <body>
     <div class="container-home">
       {% include header-home.html %}
-        <div class="content-wrapper-home">{{ content }}</div>
+        <div class="content-wrapper-community">{{ content }}</div>
       {% include footer-home.html %}
     </div>
-    <!-- <div class="social-media-wrapper">
+    <div class="social-media-wrapper">
       {% for item in site.data.settings.social %}
         <a href="{{ item.link }}" class="menu-link-home" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image-bar }}" /></a>
       {% endfor %}
-    </div>   -->
+    </div>  
 
   </body>
 </html>

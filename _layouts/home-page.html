@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  {% include head-home.html %}
+  <body>
+    <div class="container-home">
+      {% include header-home.html %}
+        <div class="split-container">
+          <div class="content-wrapper-home-page">
+              {{ content }}
+              </br>
+              </br>
+              </br>
+              <a href="{{ site.github.url }}/audio-ghid">
+                <img src="{{ site.github.url }}/assets/img/home-page-play-icon.svg"/>
+                </br>
+                Începe ascultarea
+              </a>
+              </br>
+              </br>
+              </br>
+              <div class="social-media-wrapper-home-page">
+                {% for item in site.data.settings.social %}
+                  <a href="{{ item.link }}" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image }}" /></a>
+                {% endfor %}  
+              </div> 
+            </div>
+    
+          <div class="content-home-page-image">
+            <img src="{{ site.github.url }}/assets/img/home-page.svg" />
+          </div>  
+        </div>
+      {% include footer-home.html %}
+    </div>
+    <!-- <div class="social-media-wrapper">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="menu-link-home" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image-bar }}" /></a>
+      {% endfor %}
+    </div>   -->
+
+  </body>
+</html>
