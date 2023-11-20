@@ -95,6 +95,11 @@
   width: 100%;
 }
 
+.content-wrapper-home-page h1 {
+  margin-right: auto;
+}
+
+
 .content-wrapper-home-page a {
   height: 30%;
   width: 50%;
@@ -105,7 +110,8 @@
 
 @media (max-width: $container-width) {
   .content-wrapper-home-page {
-    padding-left: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
   }
 }
 
