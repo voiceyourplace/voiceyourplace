@@ -67,11 +67,9 @@
   .dropbtn {
     background-color: white;
     color: black;
-    padding: 16px;
-    margin-top: 4px;
-    margin-right: 5px;
     position: absolute;
     right: 10px;
+    padding: 0px;
     font-size: 16px;
     border: none;
     cursor: pointer;
@@ -118,6 +116,22 @@
   background-color: #ffffff;
   z-index: 100;
 }
+
+.site-header-home img {
+  height: 10%;
+  width: 10%;
+  max-width: 172px;
+  max-height: 172px;
+  margin-bottom: 0;
+  margin-top: 30px;
+  padding-left: 20%;
+  float: left;
+}
+
+.site-header-home a {
+  text-decoration: none;
+}
+
 @media (max-width: $container-width) {
   .site-header-home {
     min-height: 56px;
@@ -128,20 +142,19 @@
     box-shadow: 0 5px 6px -6px #bbb;
     z-index: 100;
   }
+
+  .site-header-home img {
+    height: 20%;
+    width: 20%;
+    max-width: 172px;
+    max-height: 172px;
+    margin-bottom: 0;
+    padding-left: 0%;
+    margin-top: 0px;
+    float: left;
+  }
 }
 
-.site-header-home img {
-  height: 172px;
-  width: 172px;
-  margin-bottom: 0;
-  margin-top: 30px;
-  padding-left: 20%;
-  float: left;
-}
-
-.site-header-home a {
-  text-decoration: none;
-}
 
 
 .site-title-home {
