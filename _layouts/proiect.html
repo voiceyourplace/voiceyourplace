@@ -2,10 +2,12 @@
 layout: default-project
 ---
 
-  <div class="proiect-title">Voice Your Place</div>
+<div class="proiect-title">Voice Your Place</div>
 
   <div class="proiect-container">
     <div class="proiect-left-half">
+      <br>
+      <br>
       <p>„Voice Your Place” este un proiect care se concentrează asupra comunității, apartenenței și valorificării mediul construit prin realizarea unui audio ghid narat de adolescenți despre arhitectura de patrimoniu din orașul lor. Obiectivul ghidului audio este să devină o unealtă social-pedagogică ce implică adolescenții într-un proces ludic, dar conștient de explorare, aprofundare și apreciere a patrimoniului. </p>
       <p>Audio ghidul Voice Your Place: Curtea de Argeș a fost realizat în cadrul Școlii de vară, în luna iulie 2023, unde au participat douăzeci de adolescenți din comunitatea locală. Pe parcursul celor trei săptămâni au fost realizate ateliere de: arhitectură, soundscape, scriere creativă, interpretare și înregistrări într-un studio local. Atelierele, coordonate de invitați din domeniile creative vizate, au urmărit realizarea unor componente esențiale din alcătuirea audio ghidului, dar și crearea unor perspective multiple asupra clădirilor de patrimoniu studiate, care să contureze și să aprofundeze complexitatea lor.
       </br>
@@ -19,7 +21,7 @@ layout: default-project
     </div>
     
     <div class="proiect-right-half">
-      Echipa proiectului
+      <p>Echipa proiectului</p>
       <p>
         Participanții Școlii de Vară Voice Your Place Curtea de Argeș 2023:
         </br>
@@ -56,16 +58,17 @@ layout: default-project
       </p>
       
       <p>
-        Voice Your Place: Curtea de Argeș este un proiect Ordinul Arhitecților România: <br>
-        Filiala Teritorială Argeș.  
+        Voice Your Place: Curtea de Argeș este un proiect Ordinul Arhitecților România: Filiala Teritorială Argeș.  
       </p>
 
       <p>
-        Mulțumim partenerilor noștri: Asociația De-a Arhitectura și Muzeul Municipal Curtea de Argeș
+        Mulțumim partenerilor noștri: <br>
+        Asociația De-a Arhitectura și Muzeul Municipal Curtea de Argeș
       </p>
       
       <p>
         Și sponsorului nostru: Wienerberger Romania
+        <br>
         <br>
 
         Acțiune cofinanțată de Consiliul Județean Argeș, în cadrul apelului de fonduri nerambursabile pentru tineret, cultură, mediu 2023.
@@ -74,7 +77,8 @@ layout: default-project
     </div>
   </div> 
 
-
-
-
-
+  <div class="social-sponsors">
+    {% for item in site.data.settings.social-partners %}
+      <img src="{{ site.github.url }}/assets/img/{{ item.image }}" />
+    {% endfor %}
+  </div>

@@ -1,10 +1,33 @@
 <footer class="footer">
-  <!-- {% for item in site.data.settings.social %}
-  <a href="{{ item.link }}" class="menu-link" target="_blank"
-    ><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i
-  ></a>
-  {% endfor %} -->
-  <div class="footer-description">
-    <a href="{{ site.github.url }}/">{{ site.title }} </a>
+
+  <div class="footer-column">
+    <p>Pagini:</p>
+    <ul class="footer-list">
+      <a href="/audio-ghid"><li>Curtea de Argeș</li></a>
+      <a href="/audio-ghid"></a><li>Audio Ghid</li></a>
+      <a href="/comunitate"><li>Comunitate</li></a>
+      <a href="/proiect"><li>Proiect</li></a>
+      <a href="/contact"><li>Contact</li></a>
+    </ul>
   </div>
+
+  <div class="center-column">
+    <p>Urmăriți-ne pe:</p>
+    <div class="social-media-wrapper-footer">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image }}" /></a>
+      {% endfor %}
+    </div>
+    <p>
+      CONTACT:
+      <br>
+      voiceyourplace@gmail.com
+    </p>
+    <div class="footer-description-home-page"><a href="{{ site.github.url }}/">{{ site.title }} </a></div>
+  </div>
+
+  <div class="footer-column">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/sticker-footer.svg" class="footer-image">
+  </div>
+
 </footer>

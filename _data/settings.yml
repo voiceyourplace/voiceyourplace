@@ -7,7 +7,7 @@ disqus:
 google-ID: "UA-112060364-2"
 
 menu:
-  - { name: "Curtea de Arges", url: "audio-ghid" }
+  - { name: "Curtea de Argeș", url: "audio-ghid" }
   - { name: "Audio ghid", url: "audio-ghid" }
   - { name: "Comunitate", url: "comunitate" }
   - { name: "Proiect", url: "proiect" }
@@ -19,7 +19,11 @@ social:
   - { icon: "facebook", link: "https://facebook.com/voiceyourplace", title: "FACEBOOK", image: "logo-facebook.svg" }
   - { icon: "soundcloud", link: "https://soundcloud.com/voice-your-place", title: "SOUNDCLOUD", image: "logo-soundcloud.svg" }
   - { icon: "youtube", link: "https://www.youtube.com/@VoiceYourPlace", title: "YOUTUBE", image: "logo-youtube.svg" }
-  # - { icon: "envelope", link: "voiceyourplace@gmail.com" }
+
+social-partners:
+  - { name: "OAR", image: "oar-logo.svg" }
+  - { name: "Partners & Sponsors", image: "partners-sponsors.svg" }
+  - { name: "CJA", image: "cj-arges-logo.svg" }
 
 community:
   - { front: "comunitate-front-1.svg", back: "comunitate-back-1.svg", url: "comunitate" }

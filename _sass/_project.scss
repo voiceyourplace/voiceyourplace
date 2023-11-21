@@ -5,11 +5,18 @@
   line-height: 1.25;
   font-size: 40px;
   text-rendering: optimizeLegibility;
+  text-align: center;
+  width: 50%;
 }
 
 .proiect-container {
   display: flex;
   justify-content: center;
+}
+
+.proiect-container p {
+  line-height: 1.2;
+  margin-top: 0;
 }
 
 .proiect-left-half,
@@ -21,14 +28,29 @@
 .proiect-left-half {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   padding-right: 2%;
+}
+
+.proiect-left-half img {
+  width: 100%;
+  height: auto;
+  display: block; /* This ensures the image takes the full width available */
+  margin-left: auto; /* Align the image to the right */
+  margin-right: auto; /* Align the image to the right */
+}
+
+// Add style for figcaption align to right
+.proiect-left-half figcaption {
+  color: #000000;
+  text-align: right;
+  font-style: italic;
+  padding: 2px;
+  font-size: 0.8rem;
 }
 
 .proiect-right-half {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   padding-left: 2%;
 }
 
