@@ -1,5 +1,6 @@
 <footer class="footer">
 
+<div class="footer-responsive">
   <div class="footer-column">
     <p>Pagini:</p>
     <ul class="footer-list">
@@ -29,5 +30,21 @@
   <div class="footer-column">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/sticker-footer.svg" class="footer-image">
   </div>
+</div>
+
+<div class="center-column-responsive">
+  <p>Urmăriți-ne pe:</p>
+  <div class="social-media-wrapper-footer">
+    {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image }}" /></a>
+    {% endfor %}
+  </div>
+  <p>
+    CONTACT:
+    <br>
+    voiceyourplace@gmail.com
+  </p>
+  <div class="footer-description-home-page"><a href="{{ site.github.url }}/">{{ site.title }} </a></div>
+</div>
 
 </footer>
