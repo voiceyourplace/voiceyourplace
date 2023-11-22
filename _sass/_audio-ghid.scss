@@ -42,6 +42,11 @@
   width: 100%;
 }
 
+.audio-video-wrapper iframe {
+  height: 380px;
+  width: 40%;
+}
+
 .audio-video-description-wrapper {
   display: flex;
   flex-direction: row;
@@ -202,4 +207,28 @@
 .audio-video-poveste {
   width: 40%;
   color: #ffffff;
+}
+
+.audio-video-poveste p {
+  font-size: 18px;
+  line-height: 28.8px;
+  align-items: justify;
+}
+
+
+@media (max-width: $container-width) {
+
+  .audio-video-description-header p {
+    line-height: 25.6px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0%;
+    font-size: 16px;
+  }
+
+  .audio-video-wrapper iframe {
+    height: 200px;
+    width: 80%;  
+  }
+
 }
