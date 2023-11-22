@@ -7,7 +7,7 @@ disqus:
 google-ID: "UA-112060364-2"
 
 menu:
-  - { name: "Curtea de Argeș", url: "audio-ghid" }
+  - { name: "Curtea de Argeș", url: "biserica-domneasca" }
   - { name: "Audio ghid", url: "audio-ghid" }
   - { name: "Comunitate", url: "comunitate" }
   - { name: "Proiect", url: "proiect" }

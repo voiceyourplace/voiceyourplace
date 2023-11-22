@@ -68,6 +68,30 @@
   font-size: 16px;
 }
 
+.audio-image {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.audio-image img:nth-child(1) {
+  display: none;
+}
+
+.audio-image img:nth-child(3) {
+  display: none;
+}
+
+@media (max-width: $container-width) {
+  .audio-image img:nth-child(1) {
+    display: flex;
+  }
+  
+  .audio-image img:nth-child(3) {
+    display: flex;
+  }  
+}
+
 
 .audio-video-description-content {
   width: 70%;
@@ -203,6 +227,10 @@
   margin-top: 20%;
 }
 
+.next-story-description a {
+  color: #ffffff;
+}
+
 
 .audio-video-poveste {
   width: 40%;
@@ -213,6 +241,12 @@
   font-size: 18px;
   line-height: 28.8px;
   align-items: justify;
+}
+
+
+.related-story {
+  color: #ffffff;
+  text-align: center;
 }
 
 
@@ -231,4 +265,36 @@
     width: 80%;  
   }
 
+}
+
+.audio-video-episod-overview {
+  display: flex;
+  padding-top: 40px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38.4px;
+  text-align: center;
+  justify-content: center;
+  color: #ffffff;
+  width: 30%;
+}
+
+.audio-video-episod {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  width: 30%;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 40.2px;
+  color: #ffffff;
+}
+
+.audio-video-episod p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.audio-video-episod a {
+  color: #ffffff;
 }

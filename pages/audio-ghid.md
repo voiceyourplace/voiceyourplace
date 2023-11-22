@@ -1,6 +1,6 @@
 ---
 layout: audio-ghid
-title: Audio Ghid
+title: Despre audio ghidul Voice Your Place
 image: casti-audio-ghid.svg
 permalink: /audio-ghid
 ---
