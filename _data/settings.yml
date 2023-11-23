@@ -26,7 +26,7 @@ social-partners:
   - { name: "CJA", image: "cj-arges-logo.svg" }
 
 community:
-  - { front: "comunitate-front-1.svg", back: "comunitate-back-1.svg", url: "comunitate" }
+  - { front: "comunitate-front-1.svg", back: "comunitate-back-1.svg", url: "ultima-data-pentru-totdeauna" }
   - { front: "comunitate-front-2.svg", back: "comunitate-back-1.svg", url: "comunitate" }
   - { front: "comunitate-front-3.svg", back: "comunitate-back-1.svg", url: "comunitate" }
   - { front: "comunitate-front-4.svg", back: "comunitate-back-1.svg", url: "comunitate" }
