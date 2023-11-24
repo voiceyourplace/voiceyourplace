@@ -35,6 +35,11 @@
 // }
 
 @media (max-width: 600px) {
+
+  .content-wrapper-community {
+    width: 80%;
+  }
+
   .gallery-item {
       flex: 0 0 100%; /* 1 image per row on even smaller screens */
       max-width: 100%;
@@ -43,6 +48,7 @@
   #gallery {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
 }
 
