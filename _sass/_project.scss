@@ -12,6 +12,7 @@
 .proiect-container {
   display: flex;
   justify-content: center;
+  width: 100%;
 }
 
 .proiect-container p {
@@ -25,6 +26,10 @@
 .proiect-right-half {
   width: 50%;
   min-height: 200px; /* Adjust as needed */
+}
+
+.proiect-left-half p:first-child {
+  padding-top: 38.4px;
 }
 
 .proiect-left-half {
@@ -58,9 +63,8 @@
 
 .content-wrapper-project {
   padding-top: $header-thickness + 10px;
-  padding-left: 20%;
-  padding-right: 20%;
-  margin-bottom: auto;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 figcaption {
@@ -71,10 +75,23 @@ figcaption {
 }
 
 /* Add a media query for screens smaller than 768px (adjust as needed) */
-@media only screen and (max-width: 768px) {
+@media  (max-width: $container-width) {
 
-  .project-title {
+  .social-sponsors {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     width: 100%;
+  }
+
+  .social-sponsors img {
+    max-width: 400px;
+  }
+
+  .proiect-title {
+    width: 100%;
+    display: none;
   }
 
   .proiect-container {
@@ -83,15 +100,25 @@ figcaption {
 
   .proiect-left-half,
   .proiect-right-half {
+    display: flex;
+    flex-direction: column;
     width: 100%; /* Adjusted width for smaller screens */
     margin-block-start: 0;
     margin-block-end: 0;
+    
+    p:first-child {
+      padding-top: 10%;
+    }
+  
+    p {
+      order: 2;
+    }
+  
   }
   
   .content-wrapper-project {
     /* ... existing styles ... */
-    padding-left: 5%;
-    padding-right: 5%; /* Adjusted padding for smaller screens */
+    width: 90%;
   }
   
   .proiect-container p {
@@ -108,11 +135,17 @@ figcaption {
   .proiect-left-half figcaption {
     /* ... existing styles ... */
     text-align: center; /* Center align figcaption on smaller screens */
+    display: none;
   }
 
   .proiect-container {
-    padding: 0 10px; /* Add some padding to the container for smaller screens */
+    // padding: 0 10px; /* Add some padding to the container for smaller screens */
   }
+
+  .proiect-left-half figure {
+    order: 1;
+  }
+
 
   .proiect-left-half,
   .proiect-right-half {
@@ -120,8 +153,4 @@ figcaption {
     padding: 0; /* Remove padding for smaller screens */
   }
 
-  .content-wrapper-project {
-    padding-left: 5%;
-    padding-right: 5%; /* Adjusted padding for smaller screens */
-  }
 }
