@@ -4,6 +4,10 @@
   align-items: center;
 }
 
+.story-comunitate-title {
+  width: 100%;
+}
+
 .story-comunitate-title p:first-child {
   margin-bottom: 0;
   font-weight: 600;
@@ -18,13 +22,14 @@
   font-size: 18px;
   line-height: 16px;
   margin-left: 50%;
-  text-align: center;
 }
 
 .story-comunitate-content {
   display: flex;
   flex-direction: column;
-  width: 40%;
+  width: 60%;
+  padding-bottom: 10%;
+
 }
 
 .story-comunitate-content p {
@@ -32,6 +37,10 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 16px;
-  margin-left: 10%;
   text-align: left;
+}
+
+// Overwrite the default styles for the header
+.site-header-home {
+  position: relative;
 }

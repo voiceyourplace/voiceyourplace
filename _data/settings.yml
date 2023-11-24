@@ -8,7 +8,7 @@ google-ID: "UA-112060364-2"
 
 menu:
   - { name: "Curtea de Argeș", url: "biserica-domneasca" }
-  - { name: "Audio ghid", url: "audio-ghid" }
+  - { name: "Audio ghid", url: "biserica-domneasca" }
   - { name: "Comunitate", url: "comunitate" }
   - { name: "Proiect", url: "proiect" }
   - { name: "Contact", url: "contact" }
@@ -26,19 +26,19 @@ social-partners:
   - { name: "CJA", image: "cj-arges-logo.svg" }
 
 community:
-  - { front: "comunitate-front-1.svg", back: "comunitate-back-1.svg", url: "ultima-data-pentru-totdeauna" }
-  - { front: "comunitate-front-2.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-3.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-4.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-5.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-6.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-7.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-8.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-9.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-10.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-11.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-12.svg", back: "comunitate-back-1.svg", url: "comunitate" }
-  - { front: "comunitate-front-13.svg", back: "comunitate-back-1.svg", url: "comunitate" }
+  - { front: "comunitate-front-1.jpg", back: "comunitate-back-1.svg", url: "ultima-data-pentru-totdeauna" }
+  - { front: "comunitate-front-2.jpg", back: "comunitate-back-1.svg", url: "fata-care-a-plecat" }
+  - { front: "comunitate-front-3.jpg", back: "comunitate-back-1.svg", url: "capturarea-cetatii" }
+  - { front: "comunitate-front-4.jpg", back: "comunitate-back-1.svg", url: "batrana-hotomana" }
+  - { front: "comunitate-front-5.jpg", back: "comunitate-back-1.svg", url: "parintii" }
+  - { front: "comunitate-front-6.jpg", back: "comunitate-back-1.svg", url: "leat-6838" }
+  - { front: "comunitate-front-7.jpg", back: "comunitate-back-1.svg", url: "impacarea-de-la-biserica-olari" }
+  - { front: "comunitate-front-8.jpg", back: "comunitate-back-1.svg", url: "liniste" }
+  - { front: "comunitate-front-9.jpg", back: "comunitate-back-1.svg", url: "cristian" }
+  - { front: "comunitate-front-10.jpg", back: "comunitate-back-1.svg", url: "cu-dor" }
+  - { front: "comunitate-front-11.jpg", back: "comunitate-back-1.svg", url: "nu-atingeti-exponatele" }
+  - { front: "comunitate-front-12.jpg", back: "comunitate-back-1.svg", url: "tic-tac" }
+  - { front: "comunitate-front-13.jpg", back: "comunitate-back-1.svg", url: "un-nou-inceput" }
 
 
 # Customize site text
