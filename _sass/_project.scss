@@ -69,3 +69,59 @@ figcaption {
   padding: 2px;
   text-align: center;
 }
+
+/* Add a media query for screens smaller than 768px (adjust as needed) */
+@media only screen and (max-width: 768px) {
+
+  .project-title {
+    width: 100%;
+  }
+
+  .proiect-container {
+    flex-direction: column; /* Stack items vertically on smaller screens */
+  }
+
+  .proiect-left-half,
+  .proiect-right-half {
+    width: 100%; /* Adjusted width for smaller screens */
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  
+  .content-wrapper-project {
+    /* ... existing styles ... */
+    padding-left: 5%;
+    padding-right: 5%; /* Adjusted padding for smaller screens */
+  }
+  
+  .proiect-container p {
+    /* ... existing styles ... */
+    font-size: 16px; /* Adjusted font size for better readability on smaller screens */
+    line-height: 1.5;
+  }
+  
+  .proiect-left-half img {
+    /* ... existing styles ... */
+    margin-left: 0; /* Center the image */
+  }
+  
+  .proiect-left-half figcaption {
+    /* ... existing styles ... */
+    text-align: center; /* Center align figcaption on smaller screens */
+  }
+
+  .proiect-container {
+    padding: 0 10px; /* Add some padding to the container for smaller screens */
+  }
+
+  .proiect-left-half,
+  .proiect-right-half {
+    width: 100%; /* Adjusted width for smaller screens */
+    padding: 0; /* Remove padding for smaller screens */
+  }
+
+  .content-wrapper-project {
+    padding-left: 5%;
+    padding-right: 5%; /* Adjusted padding for smaller screens */
+  }
+}
