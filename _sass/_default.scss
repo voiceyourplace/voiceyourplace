@@ -250,5 +250,21 @@ label {
 .contact-form-wrapper {
   display: flex;
   justify-content: space-between;
-  width: 900px; /* Adjust the width as needed */
+  // width: 900px; /* Adjust the width as needed */
+}
+
+
+@media (max-width: $container-width) {
+  form {
+    display: none;
+  }
+}
+
+
+.contact-form-media-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  // width: 900px; /* Adjust the width as needed */
 }
