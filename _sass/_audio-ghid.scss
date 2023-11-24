@@ -83,6 +83,14 @@
 }
 
 @media (max-width: $container-width) {
+
+  .audio-image {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+  }
+
   .audio-image img:nth-child(1) {
     display: flex;
   }
@@ -265,6 +273,49 @@
     width: 80%;  
   }
 
+  .next-button {
+    display: none;
+  }
+
+  .prev-button {
+    display: none;
+  }
+
+  .next-story img {
+    display: none;
+  }
+
+  .image-wrapper img {
+    width: 100%;
+  }
+
+  .audio-video-locuri-povesti {
+    line-height: 28.8px;
+    margin-top: 40px;
+    margin-bottom: 0;
+    font-size: 18px;
+    font-style: italic;
+    width: 80%;
+  }
+
+  .audio-video-poveste {
+    width: 80%;
+    color: #ffffff;
+  }
+
+  .photo-buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    width: 100%;
+  }
+
+  .image-wrapper {
+    width: 80%;
+  }
+  
 }
 
 .audio-video-episod-overview {
