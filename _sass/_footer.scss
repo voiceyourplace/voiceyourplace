@@ -71,6 +71,11 @@
   align-items: center;
 }
 
+.social-media-wrapper-footer img {
+  height: 75%;
+  width: 75%;
+}
+
 .social-sponsors {
   display: flex;
   flex-direction: row;
@@ -78,6 +83,7 @@
   align-items: center;
   gap: 30px;
   padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 .footer-responsive {
