@@ -1,5 +1,6 @@
 ---
 layout: default-audio-ghid
+title: Biserica Sfântul Nicolae Domnesc
 ---
 
 <div class="audio-video-container">
@@ -115,13 +116,25 @@ layout: default-audio-ghid
 
   </div>
 
-  <h2 class="title-audio-ghid">
+  <div class="related-story-title">
     Alte povești de la {{ page.title }}:
-  </h2>
+  </div>
 
-  <h3 class="title-audio-ghid">
-    Leat 6838 de Eduard Băiașu
-  </h3>
+  <div class="related-story">
+    {% for post in site.data.settings.community-stories %}
+      {% if post.location == "BisericaDomneasca" %} 
+        <a href="{{ post.url }}">
+          <p>
+            {{ post.title }} de {{ post.author }}
+          </p>
+        </a>
+      {% endif %}
+    {% endfor %}
+    </br>
+    </br>
+    </br>
+    </br>
+  </div>
 
 </div>
 <i> {{page.footer-note}} </i>

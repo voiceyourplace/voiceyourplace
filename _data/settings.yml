@@ -15,15 +15,15 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-  - { icon: "instagram", link: "https://instagram.com/voiceyourplace", title: "INSTAGRAM", image: "logo-instagram.svg" }
-  - { icon: "facebook", link: "https://facebook.com/voiceyourplace", title: "FACEBOOK", image: "logo-facebook.svg" }
-  - { icon: "soundcloud", link: "https://soundcloud.com/voice-your-place", title: "SOUNDCLOUD", image: "logo-soundcloud.svg" }
-  - { icon: "youtube", link: "https://www.youtube.com/@VoiceYourPlace", title: "YOUTUBE", image: "logo-youtube.svg" }
+  - { icon: "instagram", link: "https://instagram.com/voiceyourplace", title: "INSTAGRAM", image: "logo-instagram.svg", alt: "Instagram" }
+  - { icon: "facebook", link: "https://facebook.com/voiceyourplace", title: "FACEBOOK", image: "logo-facebook.svg", alt: "Facebook" }
+  - { icon: "soundcloud", link: "https://soundcloud.com/voice-your-place", title: "SOUNDCLOUD", image: "logo-soundcloud.svg", alt: "Soundcloud" }
+  - { icon: "youtube", link: "https://www.youtube.com/@VoiceYourPlace", title: "YOUTUBE", image: "logo-youtube.svg", alt: "Youtube" }
 
 social-partners:
-  - { name: "OAR", image: "oar-logo.svg" }
-  - { name: "Partners & Sponsors", image: "partners-sponsors.svg" }
-  - { name: "CJA", image: "cj-arges-logo.svg" }
+  - { name: "OAR", image: "oar-logo.svg", alt: "Ordinul Arhitectilor din Romania" }
+  - { name: "Partners & Sponsors", image: "partners-sponsors.svg", alt: "Parteneri si sponsori" }
+  - { name: "CJA", image: "cj-arges-logo.svg", "Consiliul Judetean Arges" }
 
 community:
   - { front: "comunitate-front-1.jpg", back: "comunitate-back-1.jpg", url: "/comunitate/ultima-data-pentru-totdeauna" }
@@ -39,6 +39,26 @@ community:
   - { front: "comunitate-front-11.jpg", back: "comunitate-back-11.jpg", url: "/comunitate/nu-atingeti-exponatele" }
   - { front: "comunitate-front-12.jpg", back: "comunitate-back-12.jpg", url: "/comunitate/tic-tac" }
   - { front: "comunitate-front-13.jpg", back: "comunitate-back-13.jpg", url: "/comunitate/un-nou-inceput" }
+
+community-stories:
+  - { location: "RuinaBisericaSanNicoara", title: "Fata care a plecat", author: "Ruxandra Radu", url: "/comunitate/fata-care-a-plecat" }
+  - { location: "RuinaBisericaSanNicoara", title: "Bătrâna hoțomană", author: "Ionuț Păduraru", url: "/comunitate/batrana-hotomana" }
+  - { location: "RuinaBisericaSanNicoara", title: "Capturarea cetății", author: "Radu Răducanu", url: "/comunitate/capturarea-cetatii" }
+  - { location: "RuinaBisericaSanNicoara", title: "Ultima dată pentru totdeauna ", author: "Izabela Stoica", url: "/comunitate/ultima-data-pentru-totdeauna" }
+
+  - { location: "BisericaDomneasca", title: "Leat 6838", author: "Eduard Băiașu", url: "/comunitate/leat-6838" }
+  - { location: "BisericaDomneasca", title: "Părinții", author: "Nectaria Craus", url: "/comunitate/parintii" }
+
+  - { location: "BisericaOlari", title: "Liniște", author: "Ana Baciu", url: "/comunitate/liniste" }
+
+  - { location: "ManastireaCurteaDeArges", title: "Cristian", author: "Maria Duca", url : "/comunitate/cristian" }
+  - { location: "ManastireaCurteaDeArges", title: "Liniște", author: "Ana Baciu", url : "/comunitate/liniste" }
+  - { location: "ManastireaCurteaDeArges", title: "Cu dor, păpușii care s-a rupt", author: "Mădălina Niță", url : "/comunitate/cu-dor" }
+
+  - { location: "CasaNorocea", title: "Nu atingeți exponatele", author: "Eliza Rada", url: "/comunitate/nu-atingeti-exponatele" }
+  - { location: "CasaNorocea", title: "Tic-Tac!", author: "Alexia Jianu", url: "/comunitate/tic-tac" }
+
+  - { location: "GaraRegala", title: "Fata care a plecat", author: "Ruxandra Radu", url: "/comunitate/fata-care-a-plecat" }
 
 
 # Customize site text

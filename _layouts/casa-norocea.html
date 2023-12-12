@@ -92,8 +92,8 @@ layout: default-audio-ghid
     </p>
   </div>
   <div class="audio-video-poveste">
-    <p> Cu dor, păpușii care s-a rupt <br>
-      de Mădălina Niță
+    <p> Nu atingeți exponatele <br>
+      de Eliza Rada
     </p>
 
     <p>
@@ -130,13 +130,25 @@ layout: default-audio-ghid
 
   </div>
 
-  <h2 class="related-story">
+  <div class="related-story-title">
     Alte povești de la {{ page.title }}:
-  </h2>
+  </div>
 
-  <h3 class="related-story">
-    Tic-Tac! de Alexia Jianu
-  </h3>
+  <div class="related-story">
+    {% for post in site.data.settings.community-stories %}
+      {% if post.location == "CasaNorocea" %} 
+        <a href="{{ post.url }}">
+          <p>
+            {{ post.title }} de {{ post.author }}
+          </p>
+        </a>
+      {% endif %}
+    {% endfor %}
+    </br>
+    </br>
+    </br>
+    </br>
+  </div>
 
 </div>
 <i> {{page.footer-note}} </i>

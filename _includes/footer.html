@@ -16,7 +16,7 @@
     <p>Urmăriți-ne pe:</p>
     <div class="social-media-wrapper-footer">
       {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image }}" /></a>
+        <a href="{{ item.link }}" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image }}" alt="{{ item.alt }}"/></a>
       {% endfor %}
     </div>
     <p>
@@ -28,7 +28,7 @@
   </div>
 
   <div class="footer-column">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/sticker-footer.svg" class="footer-image">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/sticker-footer.svg" class="footer-image" alt="Sticker VoiceYourPlace">
   </div>
 </div>
 
@@ -36,7 +36,7 @@
   <p>Urmăriți-ne pe:</p>
   <div class="social-media-wrapper-footer">
     {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image }}" /></a>
+      <a href="{{ item.link }}" target="_blank"><img src="{{ site.github.url }}/assets/img/{{ item.image }}" alt="{{ item.alt }}"/></a>
     {% endfor %}
   </div>
   <p>

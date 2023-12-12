@@ -5,11 +5,11 @@ layout: default-audio-ghid
 <div class="audio-video-container">
   <div class="audio-image">
     <a href="/san-nicoara">
-      <img src="/assets/img/prev-button.svg" />
+      <img src="/assets/img/prev-button.svg" alt="Poveste anteriora"/>
     </a>
-    <img src="/assets/img/casti-audio-ghid.svg" />
+    <img src="/assets/img/casti-audio-ghid.svg" alt="Audio Ghid"/>
     <a href="/olari">
-      <img src="/assets/img/next-button.svg" />
+      <img src="/assets/img/next-button.svg" alt="Urmatoarea poveste"/>
     </a>
   </div>
   <h1 class="title-audio-ghid">{{ page.title }}</h1>
@@ -52,7 +52,7 @@ layout: default-audio-ghid
   <div class="photo-buttons">
       <div class="prev-button">
         <a href="/san-nicoara">
-          <img src="/assets/img/prev-button.svg" />
+          <img src="/assets/img/prev-button.svg" alt="Poveste anteriora"/>
         </a>
         <div class="prev-button-description">
           <p> Episod anterior </p>
@@ -60,7 +60,7 @@ layout: default-audio-ghid
         </div>
       </div>  
     <div class="image-wrapper">
-      <img src="/assets/img/san-nicoara.svg" />
+      <img src="/assets/img/san-nicoara.svg" alt="Ruinele San Nicoara"/>
     </div>
     <div class="next-button">
       <div class="next-button-description">
@@ -68,7 +68,7 @@ layout: default-audio-ghid
         <p> Biserica Olari </p>
       </div>
       <a href="olari">
-        <img src="/assets/img/next-button.svg" />
+        <img src="/assets/img/next-button.svg" alt="Urmatoarea poveste"/>
       </a>
     </div>
   </div>
@@ -83,7 +83,7 @@ layout: default-audio-ghid
         </a>
       </p>
     </div>
-      <img src="/assets/img/tooltip.svg" />
+      <img src="/assets/img/tooltip.svg" alt="Mana"/>
   </div>
   <div class="audio-video-locuri-povesti">
     <h1 class="title-audio-ghid">Locuri și povești</h1>
@@ -118,17 +118,26 @@ layout: default-audio-ghid
 
   </div>
 
-  <h2 class="related-story">
+  <div class="related-story-title">
     Alte povești de la {{ page.title }}:
-  </h2>
+  </div>
 
-  <h3 class="related-story">
-    Cristian de Maria Duca
-  </h3>
+  <div class="related-story">
+    {% for post in site.data.settings.community-stories %}
+      {% if post.location == "ManastireaCurteaDeArges" %} 
+        <a href="{{ post.url }}">
+          <p>
+            {{ post.title }} de {{ post.author }}
+          </p>
+        </a>
+      {% endif %}
+    {% endfor %}
+    </br>
+    </br>
+    </br>
+    </br>
+  </div>
 
-  <h3 class="related-story">
-    Liniște de Ana Baciu
-  </h3>
 
 </div>
 <i> {{page.footer-note}} </i>

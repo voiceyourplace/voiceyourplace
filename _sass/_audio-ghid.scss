@@ -7,6 +7,7 @@
   align-items: center;
   flex-direction: column;
   min-height: 100vh;
+  text-align: justify;
 }
 .container-audio-ghid a {
   text-decoration: underline;
@@ -21,7 +22,6 @@
 }
 
 .title-audio-ghid {
-  padding-top: 30px;
   color: #ffffff;
   text-align: center;
 }
@@ -159,7 +159,7 @@
   justify-content: center;
 }
 
-.prev-button-description p:nth-child(1) {
+.prev-button-description p {
   font-size: 14px;
   line-height: 16.8px;
   margin-top: 0px;
@@ -168,7 +168,12 @@
   font-weight: 100;
 }
 
-.prev-button-description p:nth-child(2) {
+.prev-button-description a {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.prev-button-description a p {
   font-size: 20px;
   line-height: 24px;
   margin-top: 0px;
@@ -176,7 +181,6 @@
   margin-left: 10px;
   font-weight: 600;
 }
-
 
 .next-button-description {
   display: flex;
@@ -184,7 +188,7 @@
   justify-content: end;
 }
 
-.next-button-description p:nth-child(1) {
+.next-button-description p {
   font-size: 14px;
   line-height: 16.8px;
   margin-top: 0px;
@@ -193,21 +197,39 @@
   font-weight: 100;
 }
 
-.next-button-description p:nth-child(2) {
+.next-button-description a {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.next-button-description a p {
   font-size: 20px;
   line-height: 24px;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-right: 10px;
-  font-weight: 600;
+  font-weight: 600;  
 }
+
+.next-story-audio-ghid {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #ffffff;
+}
+
 
 .next-story {
   display: flex;
   flex-direction: column;
   width: 100%;
   justify-content: center;
-  margin-top: 40px;
+  margin-top: 70px;
+  margin-bottom: 70px;
   text-align: center;
   color: #ffffff;
 }
@@ -222,7 +244,7 @@
 
 .next-story p:nth-child(2) {
   font-weight: 600;
-  font-size: 28px;
+  font-size: 24px;
   line-height: 44.8px;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -245,18 +267,43 @@
   color: #ffffff;
 }
 
+
+.audio-video-poveste p:first-child {
+  font-size: 18px;
+  line-height: 28.8px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 .audio-video-poveste p {
   font-size: 18px;
   line-height: 28.8px;
-  align-items: justify;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
-
-.related-story {
+.related-story-title {
   color: #ffffff;
   text-align: center;
+  margin-top: 70px;
+  margin-bottom: 10px;
+  font-size: 28px;
+  line-height: 33.6px;
 }
 
+
+.related-story a {
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.related-story p {
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
 
 @media (max-width: $container-width) {
 
@@ -320,7 +367,8 @@
 
 .audio-video-episod-overview {
   display: flex;
-  padding-top: 40px;
+  padding-top: 20px;
+  margin-bottom: 10px;
   font-weight: 400;
   font-size: 24px;
   line-height: 38.4px;
@@ -336,14 +384,14 @@
   text-align: start;
   width: 30%;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 40.2px;
   color: #ffffff;
 }
 
 .audio-video-episod p {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 .audio-video-episod a {
