@@ -44,18 +44,14 @@ community-stories:
   - { location: "RuinaBisericaSanNicoara", title: "Fata care a plecat", author: "Ruxandra Radu", url: "/comunitate/fata-care-a-plecat" }
   - { location: "RuinaBisericaSanNicoara", title: "Bătrâna hoțomană", author: "Ionuț Păduraru", url: "/comunitate/batrana-hotomana" }
   - { location: "RuinaBisericaSanNicoara", title: "Capturarea cetății", author: "Radu Răducanu", url: "/comunitate/capturarea-cetatii" }
-  - { location: "RuinaBisericaSanNicoara", title: "Ultima dată pentru totdeauna ", author: "Izabela Stoica", url: "/comunitate/ultima-data-pentru-totdeauna" }
 
   - { location: "BisericaDomneasca", title: "Leat 6838", author: "Eduard Băiașu", url: "/comunitate/leat-6838" }
-  - { location: "BisericaDomneasca", title: "Părinții", author: "Nectaria Craus", url: "/comunitate/parintii" }
 
   - { location: "BisericaOlari", title: "Liniște", author: "Ana Baciu", url: "/comunitate/liniste" }
 
   - { location: "ManastireaCurteaDeArges", title: "Cristian", author: "Maria Duca", url : "/comunitate/cristian" }
   - { location: "ManastireaCurteaDeArges", title: "Liniște", author: "Ana Baciu", url : "/comunitate/liniste" }
-  - { location: "ManastireaCurteaDeArges", title: "Cu dor, păpușii care s-a rupt", author: "Mădălina Niță", url : "/comunitate/cu-dor" }
 
-  - { location: "CasaNorocea", title: "Nu atingeți exponatele", author: "Eliza Rada", url: "/comunitate/nu-atingeti-exponatele" }
   - { location: "CasaNorocea", title: "Tic-Tac!", author: "Alexia Jianu", url: "/comunitate/tic-tac" }
 
   - { location: "GaraRegala", title: "Fata care a plecat", author: "Ruxandra Radu", url: "/comunitate/fata-care-a-plecat" }
