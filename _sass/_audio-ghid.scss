@@ -36,7 +36,7 @@
 
 .audio-video-wrapper {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   width: 100%;
@@ -144,7 +144,7 @@
 .prev-button {
   display: flex;
   flex-direction: row;
-  width: 20%;
+  width: 15%;
   justify-content: start;
   color:#ffffff;
 }
@@ -153,7 +153,7 @@
   display: flex;
   flex-direction: row;
   display: flex;
-  width: 20%;
+  width: 15%;
   justify-content: end;
   color:#ffffff;
 }
