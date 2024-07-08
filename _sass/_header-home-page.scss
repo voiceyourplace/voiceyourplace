@@ -2,7 +2,7 @@
   min-height: 56px;
   width: 100%;
   top: 0;
-  background-color: #25215E;
+  background-color: #25215e;
 }
 
 .site-header-audio-ghid img {
@@ -26,8 +26,8 @@
     width: 100%;
     position: sticky;
     top: 0;
-    background-color: #25215E;
-    box-shadow: 0 5px 6px -6px #bbb;
+    background-color: #25215e;
+    box-shadow: 0 0 0 2px #696969;
     z-index: 100;
   }
 
@@ -76,8 +76,8 @@
     display: none;
   }
   .dropbtn-audio-ghid {
-    background-color: #25215E;
-    color: black;
+    background-color: #25215e;
+    color: white;
     position: absolute;
     right: 10px;
     padding: 0px;
@@ -112,6 +112,6 @@
     display: block;
   }
   .dropdown-audio-ghid:hover .dropbtn-audio-ghid {
-    background-color: #25215E;
+    background-color: #25215e;
   }
 }

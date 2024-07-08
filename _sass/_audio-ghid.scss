@@ -1,5 +1,5 @@
 .container-audio-ghid {
-  background-color: #25215E;
+  background-color: #25215e;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -15,7 +15,7 @@
 
 @media (max-width: $container-width) {
   .container-audio-ghid {
-    width: 95vw;
+    /*  width: 95vw; */
     margin-left: auto;
     margin-right: auto;
   }
@@ -88,7 +88,6 @@
 }
 
 @media (max-width: $container-width) {
-
   .audio-image {
     display: flex;
     width: 100%;
@@ -99,12 +98,11 @@
   .audio-image img:nth-child(1) {
     display: flex;
   }
-  
+
   .audio-image img:nth-child(3) {
     display: flex;
-  }  
+  }
 }
-
 
 .audio-video-description-content {
   width: 70%;
@@ -112,7 +110,7 @@
   max-width: 40%;
 }
 
-.audio-video-description-content p{
+.audio-video-description-content p {
   line-height: 25.6px;
   margin-top: 0;
   margin-bottom: 0;
@@ -146,7 +144,7 @@
   flex-direction: row;
   width: 15%;
   justify-content: start;
-  color:#ffffff;
+  color: #ffffff;
 }
 
 .next-button {
@@ -155,7 +153,7 @@
   display: flex;
   width: 15%;
   justify-content: end;
-  color:#ffffff;
+  color: #ffffff;
 }
 
 .image-wrapper {
@@ -213,7 +211,7 @@
   margin-top: 0px;
   margin-bottom: 0px;
   margin-right: 10px;
-  font-weight: 600;  
+  font-weight: 600;
 }
 
 .next-story-audio-ghid {
@@ -226,7 +224,6 @@
   text-align: center;
   color: #ffffff;
 }
-
 
 .next-story {
   display: flex;
@@ -266,12 +263,10 @@
   color: #ffffff;
 }
 
-
 .audio-video-poveste {
   width: 40%;
   color: #ffffff;
 }
-
 
 .audio-video-poveste p:first-child {
   font-size: 18px;
@@ -296,7 +291,6 @@
   line-height: 33.6px;
 }
 
-
 .related-story a {
   color: #ffffff;
   font-weight: bold;
@@ -311,7 +305,6 @@
 }
 
 @media (max-width: $container-width) {
-
   .audio-video-description-header p {
     line-height: 25.6px;
     margin-top: 0;
@@ -322,7 +315,7 @@
 
   .audio-video-wrapper iframe {
     height: 200px;
-    width: 80%;  
+    width: 80%;
   }
 
   .next-button {
@@ -367,7 +360,6 @@
   .image-wrapper {
     width: 80%;
   }
-  
 }
 
 .audio-video-episod-overview {
@@ -402,3 +394,4 @@
 .audio-video-episod a {
   color: #ffffff;
 }
+
