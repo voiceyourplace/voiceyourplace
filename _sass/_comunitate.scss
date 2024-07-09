@@ -1,5 +1,5 @@
 .content-wrapper-community {
-  padding-top: $header-thickness + 10px;
+  // padding-top: $header-thickness + 10px;
   padding-left: 20%;
   padding-right: 20%;
   width: 60%;
@@ -33,15 +33,28 @@
 //   }
 // }
 
-@media (max-width: 600px) {
+@media (max-width: $container-width) {
+  .title-home {
+    padding-top: 5%;
+  }
 
+  .footer-note {
+    text-align: center;
+    font-style: italic;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: $container-width) {
   .content-wrapper-community {
     width: 80%;
+    padding-left: 0%;
+    padding-right: 0%;
   }
 
   .gallery-item {
-      flex: 0 0 100%; /* 1 image per row on even smaller screens */
-      max-width: 100%;
+    flex: 0 0 100%; /* 1 image per row on even smaller screens */
+    max-width: 100%;
   }
 
   #gallery {
@@ -91,4 +104,3 @@
 .back {
   transform: rotateY(180deg);
 }
-

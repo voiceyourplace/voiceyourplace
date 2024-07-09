@@ -1,7 +1,6 @@
 ---
 layout: proiect
 title: Proiect
-image: proiect.svg
+image: proiect.jpg
 permalink: /proiect
 ---
-

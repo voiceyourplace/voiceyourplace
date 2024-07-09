@@ -11,7 +11,7 @@
 .footer-home-page a {
   color: $brand-color;
   padding: 0px 10px 0px;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 @media (max-width: $container-width) {
@@ -26,7 +26,7 @@
   .footer-home-page a {
     color: #000000;
     padding: 0px 10px 0px;
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 

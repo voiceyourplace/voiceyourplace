@@ -75,8 +75,7 @@ figcaption {
 }
 
 /* Add a media query for screens smaller than 768px (adjust as needed) */
-@media  (max-width: $container-width) {
-
+@media (max-width: $container-width) {
   .social-sponsors {
     display: flex;
     flex-direction: column;
@@ -105,34 +104,35 @@ figcaption {
     width: 100%; /* Adjusted width for smaller screens */
     margin-block-start: 0;
     margin-block-end: 0;
-    
+
     p:first-child {
       padding-top: 10%;
     }
-  
-    p {
-      order: 2;
 
+    p {
+      padding-left: 5%;
+      padding-right: 5%;
+      order: 2;
     }
-  
   }
-  
+
   .content-wrapper-project {
     /* ... existing styles ... */
-    width: 90%;
+    width: 100%;
+    padding-top: 0px;
   }
-  
+
   .proiect-container p {
     /* ... existing styles ... */
     font-size: 16px; /* Adjusted font size for better readability on smaller screens */
     line-height: 1.5;
   }
-  
+
   .proiect-left-half img {
     /* ... existing styles ... */
     margin-left: 0; /* Center the image */
   }
-  
+
   .proiect-left-half figcaption {
     /* ... existing styles ... */
     text-align: center; /* Center align figcaption on smaller screens */
@@ -147,11 +147,10 @@ figcaption {
     order: 1;
   }
 
-
   .proiect-left-half,
   .proiect-right-half {
     width: 100%; /* Adjusted width for smaller screens */
     padding: 0; /* Remove padding for smaller screens */
   }
-
 }
+
