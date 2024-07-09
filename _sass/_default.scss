@@ -112,14 +112,16 @@
   .content-wrapper-home-page {
     padding-left: 10%;
     padding-right: 10%;
+    padding-top: 10%;
   }
 
   .content-wrapper-home-page img {
-    // max-height: 32px;
+    height: 70%;
+    width: 70%;
   }
 
   .content-wrapper-home-page a {
-    padding-top: 15%;
+    padding-top: 10%;
   }
 }
 
@@ -203,6 +205,7 @@
     display: flex;
     width: 100%;
     gap: 10%;
+    display: none;
   }
 }
 
@@ -267,4 +270,3 @@ label {
   align-items: center;
   // width: 900px; /* Adjust the width as needed */
 }
-

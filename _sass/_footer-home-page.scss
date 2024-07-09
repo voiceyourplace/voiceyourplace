@@ -7,11 +7,13 @@
   width: 100%;
   padding-top: 50px;
 }
+
 .footer-home-page a {
   color: $brand-color;
   padding: 0px 10px 0px;
   text-decoration: none;
 }
+
 @media (max-width: $container-width) {
   .footer-home-page {
     background: white;
@@ -19,7 +21,12 @@
     text-align: center;
     min-height: 56px;
     line-height: 45px;
-    width: 95vw;
+  }
+
+  .footer-home-page a {
+    color: #000000;
+    padding: 0px 10px 0px;
+    text-decoration: none;
   }
 }
 
@@ -27,5 +34,5 @@
   display: block;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-size:0.8rem;
+  font-size: 0.8rem;
 }
