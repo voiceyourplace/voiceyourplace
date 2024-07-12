@@ -102,6 +102,7 @@
   .audio-image img:nth-child(2) {
     width: 30%;
     padding-bottom: 20px;
+    padding-top: 5%;
   }
 
   .audio-image img:nth-child(3) {
@@ -439,4 +440,39 @@
 
 .audio-video-episod a {
   color: #ffffff;
+}
+
+@media (max-width: $container-width) {
+  .audio-video-episod-overview {
+    display: flex;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38.4px;
+    text-align: center;
+    justify-content: center;
+    color: #ffffff;
+    width: 80%;
+  }
+
+  .audio-video-episod {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    width: 80%;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 40.2px;
+    color: #ffffff;
+  }
+
+  .audio-video-episod p {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+
+  .audio-video-episod a {
+    color: #ffffff;
+  }
 }

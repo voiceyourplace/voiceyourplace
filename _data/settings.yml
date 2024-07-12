@@ -8,54 +8,182 @@ google-ID: "UA-112060364-2"
 
 menu:
   - { name: "Curtea de Argeș", url: "biserica-domneasca" }
-  - { name: "Audio ghid", url: "biserica-domneasca" }
+  - { name: "Audio ghid", url: "audio-ghid" }
   - { name: "Comunitate", url: "comunitate" }
   - { name: "Proiect", url: "proiect" }
   - { name: "Contact", url: "contact" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-  - { icon: "instagram", link: "https://instagram.com/voiceyourplace", title: "INSTAGRAM", image: "logo-instagram.svg", alt: "Instagram" }
-  - { icon: "facebook", link: "https://facebook.com/voiceyourplace", title: "FACEBOOK", image: "logo-facebook.svg", alt: "Facebook" }
-  - { icon: "soundcloud", link: "https://soundcloud.com/voice-your-place", title: "SOUNDCLOUD", image: "logo-soundcloud.svg", alt: "Soundcloud" }
-  - { icon: "youtube", link: "https://www.youtube.com/@VoiceYourPlace", title: "YOUTUBE", image: "logo-youtube.svg", alt: "Youtube" }
+  - {
+      icon: "instagram",
+      link: "https://instagram.com/voiceyourplace",
+      title: "INSTAGRAM",
+      image: "logo-instagram.svg",
+      alt: "Instagram",
+    }
+  - {
+      icon: "facebook",
+      link: "https://facebook.com/voiceyourplace",
+      title: "FACEBOOK",
+      image: "logo-facebook.svg",
+      alt: "Facebook",
+    }
+  - {
+      icon: "soundcloud",
+      link: "https://soundcloud.com/voice-your-place",
+      title: "SOUNDCLOUD",
+      image: "logo-soundcloud.svg",
+      alt: "Soundcloud",
+    }
+  - {
+      icon: "youtube",
+      link: "https://www.youtube.com/@VoiceYourPlace",
+      title: "YOUTUBE",
+      image: "logo-youtube.svg",
+      alt: "Youtube",
+    }
 
 social-partners:
-  - { name: "OAR", image: "oar-logo.svg", alt: "Ordinul Arhitectilor din Romania" }
-  - { name: "Partners & Sponsors", image: "partners-sponsors.svg", alt: "Parteneri si sponsori" }
+  - {
+      name: "OAR",
+      image: "oar-logo.svg",
+      alt: "Ordinul Arhitectilor din Romania",
+    }
+  - {
+      name: "Partners & Sponsors",
+      image: "partners-sponsors.svg",
+      alt: "Parteneri si sponsori",
+    }
   - { name: "CJA", image: "cj-arges-logo.svg", "Consiliul Judetean Arges" }
 
 community:
-  - { front: "comunitate-front-1.jpg", back: "comunitate-back-1.jpg", url: "/comunitate/ultima-data-pentru-totdeauna" }
-  - { front: "comunitate-front-2.jpg", back: "comunitate-back-2.jpg", url: "/comunitate/fata-care-a-plecat" }
-  - { front: "comunitate-front-3.jpg", back: "comunitate-back-3.jpg", url: "/comunitate/capturarea-cetatii" }
-  - { front: "comunitate-front-4.jpg", back: "comunitate-back-4.jpg", url: "/comunitate/batrana-hotomana" }
-  - { front: "comunitate-front-5.jpg", back: "comunitate-back-5.jpg", url: "/comunitate/parintii" }
-  - { front: "comunitate-front-6.jpg", back: "comunitate-back-6.jpg", url: "/comunitate/leat-6838" }
-  - { front: "comunitate-front-7.jpg", back: "comunitate-back-7.jpg", url: "/comunitate/impacarea-de-la-biserica-olari" }
-  - { front: "comunitate-front-8.jpg", back: "comunitate-back-8.jpg", url: "/comunitate/liniste" }
-  - { front: "comunitate-front-9.jpg", back: "comunitate-back-9.jpg", url: "/comunitate/cristian" }
-  - { front: "comunitate-front-10.jpg", back: "comunitate-back-10.jpg", url: "/comunitate/cu-dor" }
-  - { front: "comunitate-front-11.jpg", back: "comunitate-back-11.jpg", url: "/comunitate/nu-atingeti-exponatele" }
-  - { front: "comunitate-front-12.jpg", back: "comunitate-back-12.jpg", url: "/comunitate/tic-tac" }
-  - { front: "comunitate-front-13.jpg", back: "comunitate-back-13.jpg", url: "/comunitate/un-nou-inceput" }
+  - {
+      front: "comunitate-front-1.jpg",
+      back: "comunitate-back-1.jpg",
+      url: "/comunitate/ultima-data-pentru-totdeauna",
+    }
+  - {
+      front: "comunitate-front-2.jpg",
+      back: "comunitate-back-2.jpg",
+      url: "/comunitate/fata-care-a-plecat",
+    }
+  - {
+      front: "comunitate-front-3.jpg",
+      back: "comunitate-back-3.jpg",
+      url: "/comunitate/capturarea-cetatii",
+    }
+  - {
+      front: "comunitate-front-4.jpg",
+      back: "comunitate-back-4.jpg",
+      url: "/comunitate/batrana-hotomana",
+    }
+  - {
+      front: "comunitate-front-5.jpg",
+      back: "comunitate-back-5.jpg",
+      url: "/comunitate/parintii",
+    }
+  - {
+      front: "comunitate-front-6.jpg",
+      back: "comunitate-back-6.jpg",
+      url: "/comunitate/leat-6838",
+    }
+  - {
+      front: "comunitate-front-7.jpg",
+      back: "comunitate-back-7.jpg",
+      url: "/comunitate/impacarea-de-la-biserica-olari",
+    }
+  - {
+      front: "comunitate-front-8.jpg",
+      back: "comunitate-back-8.jpg",
+      url: "/comunitate/liniste",
+    }
+  - {
+      front: "comunitate-front-9.jpg",
+      back: "comunitate-back-9.jpg",
+      url: "/comunitate/cristian",
+    }
+  - {
+      front: "comunitate-front-10.jpg",
+      back: "comunitate-back-10.jpg",
+      url: "/comunitate/cu-dor",
+    }
+  - {
+      front: "comunitate-front-11.jpg",
+      back: "comunitate-back-11.jpg",
+      url: "/comunitate/nu-atingeti-exponatele",
+    }
+  - {
+      front: "comunitate-front-12.jpg",
+      back: "comunitate-back-12.jpg",
+      url: "/comunitate/tic-tac",
+    }
+  - {
+      front: "comunitate-front-13.jpg",
+      back: "comunitate-back-13.jpg",
+      url: "/comunitate/un-nou-inceput",
+    }
 
 community-stories:
-  - { location: "RuinaBisericaSanNicoara", title: "Fata care a plecat", author: "Ruxandra Radu", url: "/comunitate/fata-care-a-plecat" }
-  - { location: "RuinaBisericaSanNicoara", title: "Bătrâna hoțomană", author: "Ionuț Păduraru", url: "/comunitate/batrana-hotomana" }
-  - { location: "RuinaBisericaSanNicoara", title: "Capturarea cetății", author: "Radu Răducanu", url: "/comunitate/capturarea-cetatii" }
+  - {
+      location: "RuinaBisericaSanNicoara",
+      title: "Fata care a plecat",
+      author: "Ruxandra Radu",
+      url: "/comunitate/fata-care-a-plecat",
+    }
+  - {
+      location: "RuinaBisericaSanNicoara",
+      title: "Bătrâna hoțomană",
+      author: "Ionuț Păduraru",
+      url: "/comunitate/batrana-hotomana",
+    }
+  - {
+      location: "RuinaBisericaSanNicoara",
+      title: "Capturarea cetății",
+      author: "Radu Răducanu",
+      url: "/comunitate/capturarea-cetatii",
+    }
 
-  - { location: "BisericaDomneasca", title: "Leat 6838", author: "Eduard Băiașu", url: "/comunitate/leat-6838" }
+  - {
+      location: "BisericaDomneasca",
+      title: "Leat 6838",
+      author: "Eduard Băiașu",
+      url: "/comunitate/leat-6838",
+    }
 
-  - { location: "BisericaOlari", title: "Liniște", author: "Ana Baciu", url: "/comunitate/liniste" }
+  - {
+      location: "BisericaOlari",
+      title: "Liniște",
+      author: "Ana Baciu",
+      url: "/comunitate/liniste",
+    }
 
-  - { location: "ManastireaCurteaDeArges", title: "Cristian", author: "Maria Duca", url : "/comunitate/cristian" }
-  - { location: "ManastireaCurteaDeArges", title: "Liniște", author: "Ana Baciu", url : "/comunitate/liniste" }
+  - {
+      location: "ManastireaCurteaDeArges",
+      title: "Cristian",
+      author: "Maria Duca",
+      url: "/comunitate/cristian",
+    }
+  - {
+      location: "ManastireaCurteaDeArges",
+      title: "Liniște",
+      author: "Ana Baciu",
+      url: "/comunitate/liniste",
+    }
 
-  - { location: "CasaNorocea", title: "Tic-Tac!", author: "Alexia Jianu", url: "/comunitate/tic-tac" }
+  - {
+      location: "CasaNorocea",
+      title: "Tic-Tac!",
+      author: "Alexia Jianu",
+      url: "/comunitate/tic-tac",
+    }
 
-  - { location: "GaraRegala", title: "Fata care a plecat", author: "Ruxandra Radu", url: "/comunitate/fata-care-a-plecat" }
-
+  - {
+      location: "GaraRegala",
+      title: "Fata care a plecat",
+      author: "Ruxandra Radu",
+      url: "/comunitate/fata-care-a-plecat",
+    }
 
 # Customize site text
 pagination:
