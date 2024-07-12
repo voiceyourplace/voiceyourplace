@@ -99,6 +99,11 @@
     display: flex;
   }
 
+  .audio-image img:nth-child(2) {
+    width: 30%;
+    padding-bottom: 20px;
+  }
+
   .audio-image img:nth-child(3) {
     display: flex;
   }
@@ -127,7 +132,6 @@
   margin-top: 40px;
   margin-bottom: 0;
   font-size: 18px;
-  font-style: italic;
 }
 
 .photo-buttons {
@@ -317,12 +321,26 @@
     color: #ffffff;
     font-weight: bold;
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .related-story p {
     margin-bottom: 10px;
     margin-top: 0px;
+  }
+
+  .audio-video-poveste p:first-child {
+    font-size: 16px;
+    line-height: 28.8px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .audio-video-poveste p {
+    font-size: 16px;
+    line-height: 28.8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 }
 
@@ -361,8 +379,14 @@
     margin-top: 40px;
     margin-bottom: 0;
     font-size: 18px;
-    font-style: italic;
     width: 80%;
+  }
+
+  .audio-video-locuri-povesti p {
+    line-height: 28.8px;
+    margin-top: 40px;
+    margin-bottom: 0;
+    font-size: 16px;
   }
 
   .audio-video-poveste {
