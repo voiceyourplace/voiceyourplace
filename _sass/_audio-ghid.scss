@@ -310,42 +310,6 @@
 }
 
 @media (max-width: $container-width) {
-  .related-story-title {
-    color: #ffffff;
-    text-align: center;
-    margin-top: 70px;
-    margin-bottom: 10px;
-    font-size: 18px;
-  }
-
-  .related-story a {
-    color: #ffffff;
-    font-weight: bold;
-    text-align: center;
-    font-size: 16px;
-  }
-
-  .related-story p {
-    margin-bottom: 10px;
-    margin-top: 0px;
-  }
-
-  .audio-video-poveste p:first-child {
-    font-size: 16px;
-    line-height: 28.8px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-  }
-
-  .audio-video-poveste p {
-    font-size: 16px;
-    line-height: 28.8px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
-}
-
-@media (max-width: $container-width) {
   .audio-video-description-header p {
     line-height: 25.6px;
     margin-top: 0;
@@ -474,5 +438,51 @@
 
   .audio-video-episod a {
     color: #ffffff;
+  }
+}
+
+@media (max-width: $container-width) {
+  .related-story-title {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+
+  .related-story a {
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+  }
+
+  .related-story p {
+    margin-bottom: 10px;
+    margin-top: 0px;
+  }
+
+  .audio-video-poveste p:first-child {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28.8px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+  .audio-video-poveste p:nth-child(2) {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28.8px;
+    margin-bottom: 30px;
+    text-align: right;
+  }
+
+  .audio-video-poveste p {
+    font-size: 16px;
+    line-height: 28.8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 }
