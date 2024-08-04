@@ -39,6 +39,7 @@
 }
 
 .proiect-left-half img {
+  max-width: 100%;
   width: 100%;
   height: auto;
   display: block; /* This ensures the image takes the full width available */
@@ -153,4 +154,3 @@ figcaption {
     padding: 0; /* Remove padding for smaller screens */
   }
 }
-

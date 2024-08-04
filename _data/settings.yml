@@ -46,16 +46,10 @@ social:
 
 social-partners:
   - {
-      name: "OAR",
-      image: "oar-logo.svg",
-      alt: "Ordinul Arhitectilor din Romania",
-    }
-  - {
       name: "Partners & Sponsors",
-      image: "partners-sponsors.svg",
+      image: "partners-sponsors.png",
       alt: "Parteneri si sponsori",
     }
-  - { name: "CJA", image: "cj-arges-logo.svg", "Consiliul Judetean Arges" }
 
 community:
   - {
