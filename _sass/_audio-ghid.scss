@@ -310,11 +310,31 @@
 }
 
 @media (max-width: $container-width) {
+  .audio-video-description-header {
+    width: 20%;
+    color: #ffffff;
+    font-weight: bold;
+  }
+
   .audio-video-description-header p {
     line-height: 25.6px;
     margin-top: 0;
     margin-bottom: 0;
-    padding-left: 0%;
+    padding-left: 10%;
+    font-size: 16px;
+  }
+
+  .audio-video-description-content {
+    color: #ffffff;
+    max-width: 70%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .audio-video-description-content p {
+    line-height: 25.6px;
+    margin-top: 0;
+    margin-bottom: 0;
     font-size: 16px;
   }
 
