@@ -19,28 +19,28 @@ social:
       icon: "instagram",
       link: "https://instagram.com/voiceyourplace",
       title: "INSTAGRAM",
-      image: "logo-instagram.svg",
+      image: "logo-instagram.png",
       alt: "Instagram",
     }
   - {
       icon: "facebook",
       link: "https://facebook.com/voiceyourplace",
       title: "FACEBOOK",
-      image: "logo-facebook.svg",
+      image: "logo-facebook.png",
       alt: "Facebook",
     }
   - {
       icon: "soundcloud",
       link: "https://soundcloud.com/voice-your-place",
       title: "SOUNDCLOUD",
-      image: "logo-soundcloud.svg",
+      image: "logo-soundcloud.png",
       alt: "Soundcloud",
     }
   - {
       icon: "youtube",
       link: "https://www.youtube.com/@VoiceYourPlace",
       title: "YOUTUBE",
-      image: "logo-youtube.svg",
+      image: "logo-youtube.png",
       alt: "Youtube",
     }
 
