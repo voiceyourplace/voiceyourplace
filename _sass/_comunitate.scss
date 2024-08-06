@@ -35,13 +35,14 @@
 
 @media (max-width: $container-width) {
   .title-home {
-    padding-top: 5%;
+    padding-top: 10%;
   }
 
   .footer-note {
-    text-align: center;
+    text-align: justify;
     font-style: italic;
     font-size: 14px;
+    margin: 20px;
   }
 }
 
