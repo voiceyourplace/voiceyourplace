@@ -51,70 +51,137 @@ social-partners:
       alt: "Parteneri si sponsori",
     }
 
-community:
+en-community:
   - {
-      front: "comunitate-front-1.jpg",
-      back: "comunitate-back-1.jpg",
+      front: "en-comunitate-front-1.jpg",
+      back: "en-comunitate-back-1.jpg",
       url: "/comunitate/ultima-data-pentru-totdeauna",
     }
   - {
-      front: "comunitate-front-2.jpg",
-      back: "comunitate-back-2.jpg",
+      front: "en-comunitate-front-2.jpg",
+      back: "en-comunitate-back-2.jpg",
       url: "/comunitate/fata-care-a-plecat",
     }
   - {
-      front: "comunitate-front-3.jpg",
-      back: "comunitate-back-3.jpg",
+      front: "en-comunitate-front-3.jpg",
+      back: "en-comunitate-back-3.jpg",
       url: "/comunitate/capturarea-cetatii",
     }
   - {
-      front: "comunitate-front-4.jpg",
-      back: "comunitate-back-4.jpg",
+      front: "en-comunitate-front-4.jpg",
+      back: "en-comunitate-back-4.jpg",
       url: "/comunitate/batrana-hotomana",
     }
   - {
-      front: "comunitate-front-5.jpg",
-      back: "comunitate-back-5.jpg",
+      front: "en-comunitate-front-5.jpg",
+      back: "en-comunitate-back-5.jpg",
       url: "/comunitate/parintii",
     }
   - {
-      front: "comunitate-front-6.jpg",
-      back: "comunitate-back-6.jpg",
+      front: "en-comunitate-front-6.jpg",
+      back: "en-comunitate-back-6.jpg",
       url: "/comunitate/leat-6838",
     }
   - {
-      front: "comunitate-front-7.jpg",
-      back: "comunitate-back-7.jpg",
+      front: "en-comunitate-front-7.jpg",
+      back: "en-comunitate-back-7.jpg",
       url: "/comunitate/impacarea-de-la-biserica-olari",
     }
   - {
-      front: "comunitate-front-8.jpg",
-      back: "comunitate-back-8.jpg",
+      front: "en-comunitate-front-8.jpg",
+      back: "en-comunitate-back-8.jpg",
       url: "/comunitate/liniste",
     }
   - {
-      front: "comunitate-front-9.jpg",
-      back: "comunitate-back-9.jpg",
+      front: "en-comunitate-front-9.jpg",
+      back: "en-comunitate-back-9.jpg",
       url: "/comunitate/cristian",
     }
   - {
-      front: "comunitate-front-10.jpg",
-      back: "comunitate-back-10.jpg",
+      front: "en-comunitate-front-10.jpg",
+      back: "en-comunitate-back-10.jpg",
       url: "/comunitate/cu-dor",
     }
   - {
-      front: "comunitate-front-11.jpg",
-      back: "comunitate-back-11.jpg",
+      front: "en-comunitate-front-11.jpg",
+      back: "en-comunitate-back-11.jpg",
       url: "/comunitate/nu-atingeti-exponatele",
     }
   - {
-      front: "comunitate-front-12.jpg",
-      back: "comunitate-back-12.jpg",
+      front: "en-comunitate-front-12.jpg",
+      back: "en-comunitate-back-12.jpg",
       url: "/comunitate/tic-tac",
     }
   - {
-      front: "comunitate-front-13.jpg",
-      back: "comunitate-back-13.jpg",
+      front: "en-comunitate-front-13.jpg",
+      back: "en-comunitate-back-13.jpg",
+      url: "/comunitate/un-nou-inceput",
+    }
+
+ro-community:
+  - {
+      front: "ro-comunitate-front-1.jpg",
+      back: "ro-comunitate-back-1.jpg",
+      url: "/comunitate/ultima-data-pentru-totdeauna",
+    }
+  - {
+      front: "ro-comunitate-front-2.jpg",
+      back: "ro-comunitate-back-2.jpg",
+      url: "/comunitate/fata-care-a-plecat",
+    }
+  - {
+      front: "ro-comunitate-front-3.jpg",
+      back: "ro-comunitate-back-3.jpg",
+      url: "/comunitate/capturarea-cetatii",
+    }
+  - {
+      front: "ro-comunitate-front-4.jpg",
+      back: "ro-comunitate-back-4.jpg",
+      url: "/comunitate/batrana-hotomana",
+    }
+  - {
+      front: "ro-comunitate-front-5.jpg",
+      back: "ro-comunitate-back-5.jpg",
+      url: "/comunitate/parintii",
+    }
+  - {
+      front: "ro-comunitate-front-6.jpg",
+      back: "ro-comunitate-back-6.jpg",
+      url: "/comunitate/leat-6838",
+    }
+  - {
+      front: "ro-comunitate-front-7.jpg",
+      back: "ro-comunitate-back-7.jpg",
+      url: "/comunitate/impacarea-de-la-biserica-olari",
+    }
+  - {
+      front: "ro-comunitate-front-8.jpg",
+      back: "ro-comunitate-back-8.jpg",
+      url: "/comunitate/liniste",
+    }
+  - {
+      front: "ro-comunitate-front-9.jpg",
+      back: "ro-comunitate-back-9.jpg",
+      url: "/comunitate/cristian",
+    }
+  - {
+      front: "ro-comunitate-front-10.jpg",
+      back: "ro-comunitate-back-10.jpg",
+      url: "/comunitate/cu-dor",
+    }
+  - {
+      front: "ro-comunitate-front-11.jpg",
+      back: "ro-comunitate-back-11.jpg",
+      url: "/comunitate/nu-atingeti-exponatele",
+    }
+  - {
+      front: "ro-comunitate-front-12.jpg",
+      back: "ro-comunitate-back-12.jpg",
+      url: "/comunitate/tic-tac",
+    }
+  - {
+      front: "ro-comunitate-front-13.jpg",
+      back: "ro-comunitate-back-13.jpg",
       url: "/comunitate/un-nou-inceput",
     }
 
