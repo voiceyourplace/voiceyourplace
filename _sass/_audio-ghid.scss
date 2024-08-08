@@ -19,6 +19,12 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+  .title-audio-ghid {
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+  }
 }
 
 .title-audio-ghid {
@@ -244,7 +250,7 @@
 
 .next-story p:nth-child(1) {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 25.6px;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -252,7 +258,7 @@
 
 .next-story p:nth-child(2) {
   font-weight: 600;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 44.8px;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -372,7 +378,7 @@
     line-height: 28.8px;
     margin-top: 40px;
     margin-bottom: 0;
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .audio-video-poveste {
@@ -468,7 +474,7 @@
     text-align: center;
     margin-top: 70px;
     margin-bottom: 10px;
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .related-story a {
@@ -496,7 +502,7 @@
     font-weight: bold;
     font-size: 16px;
     line-height: 28.8px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     text-align: right;
   }
 
