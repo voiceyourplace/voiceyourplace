@@ -1,13 +1,13 @@
 ---
 layout: story-comunitate
-footer-note: "Poveste scrisă la atelierul de scriere creativă din cadrul Școlii de Vară Voice Your Place: Curtea de Argeș."
+footer-note: "Story written at the creative writing workshop of the Voice Your Place Summer School: Curtea de Argeș."
 title: Un nou început
 author: Andra Șerban
-permalink: /comunitate/un-nou-inceput
+permalink: /en/community/a-new-beginning
 ---
 
-Era sâmbătă dimineața, ora 8. La această oră, de obicei dormeam sau îmi venea să îmi arunc telefonul pe geam pentru că suna alarma, însă noaptea aceea fusese diferită. Mi-o petrecusem gândindu-mă la băiatul cu care obișnuiam să vorbesc, care îmi era mereu alături și care, din senin, dispăruse. <br>
-Dintr-o dată, m-am trezit singură pe banca din fața gării, gândindu-mă cu ce am greșit. Îmi îndepărtasem toți prietenii ca să petrec timp cu el, însă el a ales să plece fără explicații. Cu fiecare tren ce trecea, inima îmi bătea mai tare, gândindu-mă că s-a întors și vrea să mă vadă. Aici obișnuiam să ne petrecem serile. <br>
-În timp ce stăteam pe banca din fața gării, înconjurată de oameni și bagaje, am simțit o atingere pe umăr. M-am uitat în spate. Dar era doar un controlor care mă întreba dacă sunt bine.  <br>
-Am decis să plec, să mă urc în primul tren și să mă eliberez. Înainte de plecare, am aruncat un ochi spre peron și am văzut două siluete. L-am recunoscut pe cel pentru care am plâns și pentru care voiam să renunț la orașul meu și la prieteni, și care ținea acum în brațe o altă fată. <br>
-Am primit răspunsul la toate întrebările mele. Acesta era sfârșitul, dar în același timp începutul.
+It was Saturday morning, 8 o'clock. At this hour, I usually slept or felt like throwing my phone out of the window because the alarm was ringing, but this night had been different. I had spent it thinking about the boy I used to talk to, who was always by my side and then suddenly disappeared. <br>
+Suddenly, I found myself alone on the bench in front of the train station, wondering what I had done wrong. I had pushed all my friends away to spend time with him, but he chose to leave without any explanation. With each passing train, my heart beat faster, thinking he was back to see me. This is where we used to spend our evenings. <br>
+As I sat on the bench in front of the station, surrounded by people and luggage, I felt a touch on my shoulder. I looked back. But it was just the conductor asking if I was okay. <br>
+I decided to leave, get on the first train and free myself. Before I left, I glanced towards the platform and saw two silhouettes. I recognized the one for whom I had cried and for whom I wanted to give up my town and friends, and who was now holding another girl in his arms. <br>
+All my questions were answered. This was the end, but also the beginning.

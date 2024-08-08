@@ -1,13 +1,13 @@
 ---
 layout: story-comunitate
-footer-note: "Poveste scrisă la atelierul de scriere creativă din cadrul Școlii de Vară Voice Your Place: Curtea de Argeș."
-title: Cu dor, păpușii care s-a rupt
+footer-note: "Story written at the creative writing workshop of the Voice Your Place Summer School: Curtea de Argeș."
+title: With Longing, to the Doll that Broke
 author: Mădălina Niță
-permalink: /comunitate/cu-dor
+permalink: /en/community/broken-doll
 ---
 
-Sunt prea tristă ca să-mi dau seama cine sunt cu adevărat. Mă regăsesc în tot ce-mi povesteau prietenii ajunși deja la vârsta maturității. Mă regăsesc în pierderile lor. Sau poate doar mi se pare. Părinții fac tot ce fac de obicei. Încearcă să mă înveselească. <br>
-Rămân, însă, la încercarea mea. Locurile sunt cele care ne țin ancorați în durere. Și acum trebuie să-l pierd. Îmi măsor pașii în timp ce mă îndrept spre ieșire. Parcul pare fără sfârșit. Dar speranța stă ascunsă. Mă urmărește. Acum se strecoară în sunetul apei care nu a încetat niciodată să curgă. Cana roșie e pata de culoare din tot acest univers alb-negru. De fapt, e tot ceea ce ne unește ca oameni – faptul că bem acea apă din Fântâna lui Manole. Am urcat treptele și mi-am luat adio de la parc. Trec strada și văd zidul Mânăstirii. Aleea se întinde înaintea mea, umbrită de brazi. Poate aș fi avut nevoie de liniște, dar drumul pietruit își repetă cântecul sacadat cu fiecare pas al meu. Mama se apropie de mine și face ceea ce face când suntem de obicei aici. Ne așezăm pe o bancă și începe să-mi spună legenda construirii Mânăstirii. Deși știu povestea, numai ea mă mai ancorează în tot ce trăiam în copilărie. <br>
-Vântul se strecoară prin toate adânciturile fleuronilor ce înconjoară biserica până când rămâne doar o adiere sub veșmintele preoților. Șoptesc „Mulțumesc”, așa cum am făcut mai demult, când printre degete mi s-a strecurat o brățară cu o cruciuliță din lemn atent sculptată. <br>
-Acum am pierdut-o. Dar a fost a mea. Încă e. <br>
-Cu dor, de pe banca din dreapta Mânăstirii, păpușii care s-a rupt, care a fost a mea și care încă e. Ți-am aprins o lumânare acolo, dar la „Morți” acum. Și clopotul nu l-am mai auzit împreună.
+I'm too sad to realize who I really am. I find myself in the stories of my friends who are already grown up. I find myself in their losses. Or maybe it just seems that way. Parents do what parents do. They try to cheer me up. <br>
+But I stay with my attempt. Places are the ones that keep us anchored in pain. And now I must lose it. I measure my steps as I head for the exit. The park seems endless. But hope lies hidden. It follows me. Now it creeps in the sound of water that never stopped flowing. The red mug is the spot of color in this whole black-and-white universe. In fact, it is everything that unites us as people - drinking that water from Manole's Fountain. I climb the steps and say goodbye to the park. I cross the street and see the monastery wall. The path stretches before me, shaded by fir trees. Maybe I could have needed the quiet, but the cobblestone path repeats its jerky song with every step I take. Mom approaches me and does what she usually does when we're here. We sit down on a bench and she begins to tell me the legend of the building of the Monastery. Although I know the story, it alone anchors me to everything I experienced as a child. <br>
+The wind sneaks through all the indentations of the fleurons surrounding the church until only a breeze remains beneath the priests' vestments. I whisper "Thank you", as I did once before when a bracelet with a carefully carved wooden cross slipped through my fingers. <br>
+Now I've lost it. But it was mine. It still is. <br>
+With longing, from the bench to the right of the monastery, to the doll that broke, that was mine and still is. I lit a candle for you there, but to the Dead now. And we never heard the bell ring together.

@@ -1,13 +1,13 @@
 ---
 layout: story-comunitate
-footer-note: "Poveste scrisă la atelierul de scriere creativă din cadrul Școlii de Vară Voice Your Place: Curtea de Argeș."
+footer-note: "Story written at the creative writing workshop of the Voice Your Place Summer School: Curtea de Argeș."
 title: Cristian
 author: Maria Duca
-permalink: /comunitate/cristian
+permalink: /en/community/cristian
 ---
 
-Cristian, contrar numelui, nu e religios. Chiar deloc. Nu crede în puteri divine, în sfinți pictați pe pereți sau în slujbele de duminică dimineața. El are o explicație realistă pentru fiecare teorie religioasă. Cu toate astea, ai lui încă îl mai târăsc cu forța la biserică, de Paște sau Crăciun. Nu acceptă gândirea băiatului lor și se sfătuiesc cum să-l aducă pe „calea cea bună”. <br>
-Astăzi, toți vizitează Curtea de Argeș. S-au gândit să vadă Mănăstirea, căci auziseră multe despre ea, dar și pentru că, într-un fel, ea reprezintă orașul. Cristian s-a opus cu desăvârșire, însă i-au spus că poate să rămână în parc, dacă nu vrea să intre. Îi place construcția, totuși. E impunătoare, frumoasă, așa că pentru o vreme stă pe o bancă ceva mai retrasă și se uită la ea fără niciun gând. <br>
-Dintr-odată, ceva îi atrage atenția. Nu departe de el, la umbra unor brazi, stă o fată cu căștile în urechi. Nu pare interesată de nimic, poate doar de melodie, căci își mișcă lent capul, în ritmul muzicii. Simțindu-se urmărită, fata ridică ochii. Privirile li se întâlnesc. Timpul pare să dispară. <br>
-Familia lui apare din biserică. Fata își scoate căștile și pleacă. <br>
-Poate Cristian va mai reveni aici.
+Contrary to his name, Cristian is not religious, not at all. He doesn't believe in divine powers, saints painted on walls, or Sunday morning services. He has a realistic explanation for every religious theory. Nevertheless, his parents still drag him to church at Easter and Christmas. They don't accept their boy's way of thinking and often discuss how they might bring him back on the "right path". <br>
+Today they are all visiting Curtea de Argeș. They decided to see the monastery because they heard a lot about it, but also because it represents the city in a way. Cristian was totally against it, but they told him he could stay in the park if he didn`t want to go inside. He likes the construction. It's beautiful and impressive. For a while, he sits on one of the more secluded benches and looks at the church without any thought. <br>
+Suddenly something catches his eye. Not far from where he is sitting, in the shade of some pine trees, sits a girl with earphones on. She doesn't seem interested in anything, except perhaps the music, as she slowly moves her head to the beat. Sensing that she is being watched, she looks up. Their eyes meet. Time seems to vanish. <br>
+The family comes out of the church. The girl takes off her earphones and walks away. <br>
+Maybe Cristian will come back here again. <br>
