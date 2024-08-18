@@ -1,6 +1,6 @@
 ---
-layout: en-casa-norocea
-title: The Norocea House
+layout: casa-norocea
+title: Casa Norocea
 image: casti-audio-ghid.svg
-permalink: /en/casa-norocea
+permalink: /ro/casa-norocea
 ---

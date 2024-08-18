@@ -199,60 +199,60 @@ community-stories:
       location: "RuinaBisericaSanNicoara",
       title: "Fata care a plecat",
       author: "Ruxandra Radu",
-      url: "/comunitate/fata-care-a-plecat",
+      url: "/ro/comunitate/fata-care-a-plecat",
     }
   - {
       location: "RuinaBisericaSanNicoara",
       title: "Bătrâna hoțomană",
       author: "Ionuț Păduraru",
-      url: "/comunitate/batrana-hotomana",
+      url: "/ro/comunitate/batrana-hotomana",
     }
   - {
       location: "RuinaBisericaSanNicoara",
       title: "Capturarea cetății",
       author: "Radu Răducanu",
-      url: "/comunitate/capturarea-cetatii",
+      url: "/ro/comunitate/capturarea-cetatii",
     }
 
   - {
       location: "BisericaDomneasca",
       title: "Leat 6838",
       author: "Eduard Băiașu",
-      url: "/comunitate/leat-6838",
+      url: "/ro/comunitate/leat-6838",
     }
 
   - {
       location: "BisericaOlari",
       title: "Liniște",
       author: "Ana Baciu",
-      url: "/comunitate/liniste",
+      url: "/ro/comunitate/liniste",
     }
 
   - {
       location: "ManastireaCurteaDeArges",
       title: "Cristian",
       author: "Maria Duca",
-      url: "/comunitate/cristian",
+      url: "/ro/comunitate/cristian",
     }
   - {
       location: "ManastireaCurteaDeArges",
       title: "Liniște",
       author: "Ana Baciu",
-      url: "/comunitate/liniste",
+      url: "/ro/comunitate/liniste",
     }
 
   - {
       location: "CasaNorocea",
       title: "Tic-Tac!",
       author: "Alexia Jianu",
-      url: "/comunitate/tic-tac",
+      url: "/ro/comunitate/tic-tac",
     }
 
   - {
       location: "GaraRegala",
       title: "Fata care a plecat",
       author: "Ruxandra Radu",
-      url: "/comunitate/fata-care-a-plecat",
+      url: "/ro/comunitate/fata-care-a-plecat",
     }
 
 en-community-stories:
