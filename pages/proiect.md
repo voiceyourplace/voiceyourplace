@@ -2,5 +2,5 @@
 layout: proiect
 title: Proiect
 image: project.jpg
-permalink: /proiect
+permalink: /ro/project
 ---

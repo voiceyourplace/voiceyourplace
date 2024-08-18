@@ -3,7 +3,7 @@ layout: story-comunitate
 footer-note: "Poveste scrisă la atelierul de scriere creativă din cadrul Școlii de Vară Voice Your Place: Curtea de Argeș."
 title: Împăcarea de la biserica Olari
 author: Maia Negru
-permalink: /comunitate/impacarea-de-la-biserica-olari
+permalink: /ro/comunitate/impacarea-de-la-biserica-olari
 ---
 
 Vara trecută m-am certat cu prietena mea cea mai bună. Încă țin minte sentimentul de atunci, plângeam pentru că simțeam că o pierd, însă aveam o speranță și aceea era iubirea pe care o aveam una pentru cealaltă. Bianca era plecată la București când m-a sunat și mi-a auzit vocea tremurândă. Mi-a spus să mă liniștesc, însă eu o tot întrebam dacă o să mai fim prietene, dacă o să mai vorbim și o să mai fie la fel. Mi-a răspuns că vorbim când se întoarce. <br>

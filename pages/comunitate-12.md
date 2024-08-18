@@ -3,7 +3,7 @@ layout: story-comunitate
 footer-note: "Poveste scrisă la atelierul de scriere creativă din cadrul Școlii de Vară Voice Your Place: Curtea de Argeș."
 title: Tic-Tac!
 author: Alexia Jianu
-permalink: /comunitate/tic-tac
+permalink: /ro/comunitate/tic-tac
 ---
 
 Un ceas vechi suna din oră în oră, iar gândul că urma să plec în altă țară nu-mi dădea pace. <br>

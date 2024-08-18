@@ -3,7 +3,7 @@ layout: story-comunitate
 footer-note: "Poveste scrisă la atelierul de scriere creativă din cadrul Școlii de Vară Voice Your Place: Curtea de Argeș."
 title: Cu dor, păpușii care s-a rupt
 author: Mădălina Niță
-permalink: /comunitate/cu-dor
+permalink: /ro/comunitate/cu-dor
 ---
 
 Sunt prea tristă ca să-mi dau seama cine sunt cu adevărat. Mă regăsesc în tot ce-mi povesteau prietenii ajunși deja la vârsta maturității. Mă regăsesc în pierderile lor. Sau poate doar mi se pare. Părinții fac tot ce fac de obicei. Încearcă să mă înveselească. <br>

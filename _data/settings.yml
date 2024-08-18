@@ -6,12 +6,21 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: "UA-112060364-2"
 
-menu:
-  - { name: "Curtea de Argeș", url: "biserica-domneasca" }
-  - { name: "Audio ghid", url: "audio-ghid" }
-  - { name: "Comunitate", url: "comunitate" }
-  - { name: "Proiect", url: "proiect" }
-  - { name: "Contact", url: "contact" }
+ro-menu:
+  - { name: "Curtea de Argeș", url: "ro/biserica-domneasca" }
+  - { name: "Audio ghid", url: "ro/audio-guide" }
+  - { name: "Comunitate", url: "ro/community" }
+  - { name: "Proiect", url: "ro/project" }
+  - { name: "Contact", url: "ro/contact" }
+  - { name: "EN", url: "en" }
+
+en-menu:
+  - { name: "Curtea de Argeș", url: "en/biserica-domneasca" }
+  - { name: "Audio guide", url: "en/audio-guide" }
+  - { name: "Community", url: "en/community" }
+  - { name: "Project", url: "en/project" }
+  - { name: "Contact", url: "en/contact" }
+  - { name: "RO", url: "" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -55,134 +64,134 @@ en-community:
   - {
       front: "en-comunitate-front-1.jpg",
       back: "en-comunitate-back-1.jpg",
-      url: "/comunitate/ultima-data-pentru-totdeauna",
+      url: "/en/community/last-time-forever",
     }
   - {
       front: "en-comunitate-front-2.jpg",
       back: "en-comunitate-back-2.jpg",
-      url: "/comunitate/fata-care-a-plecat",
+      url: "/en/community/the-girl-who-left",
     }
   - {
       front: "en-comunitate-front-3.jpg",
       back: "en-comunitate-back-3.jpg",
-      url: "/comunitate/capturarea-cetatii",
+      url: "/en/community/capture-fortress",
     }
   - {
       front: "en-comunitate-front-4.jpg",
       back: "en-comunitate-back-4.jpg",
-      url: "/comunitate/batrana-hotomana",
+      url: "/en/community/old-hag",
     }
   - {
       front: "en-comunitate-front-5.jpg",
       back: "en-comunitate-back-5.jpg",
-      url: "/comunitate/parintii",
+      url: "/en/community/parents",
     }
   - {
       front: "en-comunitate-front-6.jpg",
       back: "en-comunitate-back-6.jpg",
-      url: "/comunitate/leat-6838",
+      url: "/en/community/posada",
     }
   - {
       front: "en-comunitate-front-7.jpg",
       back: "en-comunitate-back-7.jpg",
-      url: "/comunitate/impacarea-de-la-biserica-olari",
+      url: "/en/community/reconciliation-olari-church",
     }
   - {
       front: "en-comunitate-front-8.jpg",
       back: "en-comunitate-back-8.jpg",
-      url: "/comunitate/liniste",
+      url: "/en/community/silence",
     }
   - {
       front: "en-comunitate-front-9.jpg",
       back: "en-comunitate-back-9.jpg",
-      url: "/comunitate/cristian",
+      url: "/en/community/cristian",
     }
   - {
       front: "en-comunitate-front-10.jpg",
       back: "en-comunitate-back-10.jpg",
-      url: "/comunitate/cu-dor",
+      url: "/en/community/broken-doll",
     }
   - {
       front: "en-comunitate-front-11.jpg",
       back: "en-comunitate-back-11.jpg",
-      url: "/comunitate/nu-atingeti-exponatele",
+      url: "/en/community/do-not-touch-the-exhibits",
     }
   - {
       front: "en-comunitate-front-12.jpg",
       back: "en-comunitate-back-12.jpg",
-      url: "/comunitate/tic-tac",
+      url: "/en/community/tic-tac",
     }
   - {
       front: "en-comunitate-front-13.jpg",
       back: "en-comunitate-back-13.jpg",
-      url: "/comunitate/un-nou-inceput",
+      url: "/en/community/a-new-beginning",
     }
 
 ro-community:
   - {
       front: "ro-comunitate-front-1.jpg",
       back: "ro-comunitate-back-1.jpg",
-      url: "/comunitate/ultima-data-pentru-totdeauna",
+      url: "/ro/comunitate/ultima-data-pentru-totdeauna",
     }
   - {
       front: "ro-comunitate-front-2.jpg",
       back: "ro-comunitate-back-2.jpg",
-      url: "/comunitate/fata-care-a-plecat",
+      url: "/ro/comunitate/fata-care-a-plecat",
     }
   - {
       front: "ro-comunitate-front-3.jpg",
       back: "ro-comunitate-back-3.jpg",
-      url: "/comunitate/capturarea-cetatii",
+      url: "/ro/comunitate/capturarea-cetatii",
     }
   - {
       front: "ro-comunitate-front-4.jpg",
       back: "ro-comunitate-back-4.jpg",
-      url: "/comunitate/batrana-hotomana",
+      url: "/ro/comunitate/batrana-hotomana",
     }
   - {
       front: "ro-comunitate-front-5.jpg",
       back: "ro-comunitate-back-5.jpg",
-      url: "/comunitate/parintii",
+      url: "/ro/comunitate/parintii",
     }
   - {
       front: "ro-comunitate-front-6.jpg",
       back: "ro-comunitate-back-6.jpg",
-      url: "/comunitate/leat-6838",
+      url: "/ro/comunitate/leat-6838",
     }
   - {
       front: "ro-comunitate-front-7.jpg",
       back: "ro-comunitate-back-7.jpg",
-      url: "/comunitate/impacarea-de-la-biserica-olari",
+      url: "/ro/comunitate/impacarea-de-la-biserica-olari",
     }
   - {
       front: "ro-comunitate-front-8.jpg",
       back: "ro-comunitate-back-8.jpg",
-      url: "/comunitate/liniste",
+      url: "/ro/comunitate/liniste",
     }
   - {
       front: "ro-comunitate-front-9.jpg",
       back: "ro-comunitate-back-9.jpg",
-      url: "/comunitate/cristian",
+      url: "/ro/comunitate/cristian",
     }
   - {
       front: "ro-comunitate-front-10.jpg",
       back: "ro-comunitate-back-10.jpg",
-      url: "/comunitate/cu-dor",
+      url: "/ro/comunitate/cu-dor",
     }
   - {
       front: "ro-comunitate-front-11.jpg",
       back: "ro-comunitate-back-11.jpg",
-      url: "/comunitate/nu-atingeti-exponatele",
+      url: "/ro/comunitate/nu-atingeti-exponatele",
     }
   - {
       front: "ro-comunitate-front-12.jpg",
       back: "ro-comunitate-back-12.jpg",
-      url: "/comunitate/tic-tac",
+      url: "/ro/comunitate/tic-tac",
     }
   - {
       front: "ro-comunitate-front-13.jpg",
       back: "ro-comunitate-back-13.jpg",
-      url: "/comunitate/un-nou-inceput",
+      url: "/ro/comunitate/un-nou-inceput",
     }
 
 community-stories:
@@ -244,6 +253,67 @@ community-stories:
       title: "Fata care a plecat",
       author: "Ruxandra Radu",
       url: "/comunitate/fata-care-a-plecat",
+    }
+
+en-community-stories:
+  - {
+      location: "RuinaBisericaSanNicoara",
+      title: "The girl who left",
+      author: "Ruxandra Radu",
+      url: "/en/community/the-girl-who-left",
+    }
+  - {
+      location: "RuinaBisericaSanNicoara",
+      title: "The old hag",
+      author: "Ionuț Păduraru",
+      url: "/en/community/old-hag",
+    }
+  - {
+      location: "RuinaBisericaSanNicoara",
+      title: "The capture of the fortress",
+      author: "Radu Răducanu",
+      url: "/en/community/capture-fortress",
+    }
+
+  - {
+      location: "BisericaDomneasca",
+      title: "Posada",
+      author: "Eduard Băiașu",
+      url: "/en/community/posada",
+    }
+
+  - {
+      location: "BisericaOlari",
+      title: "Silence",
+      author: "Ana Baciu",
+      url: "/en/community/silence",
+    }
+
+  - {
+      location: "ManastireaCurteaDeArges",
+      title: "Cristian",
+      author: "Maria Duca",
+      url: "/en/community/cristian",
+    }
+  - {
+      location: "ManastireaCurteaDeArges",
+      title: "Silence",
+      author: "Ana Baciu",
+      url: "/en/community/silence",
+    }
+
+  - {
+      location: "CasaNorocea",
+      title: "Tick-Tock!",
+      author: "Alexia Jianu",
+      url: "/en/community/tic-tac",
+    }
+
+  - {
+      location: "GaraRegala",
+      title: "The girl who left",
+      author: "Ruxandra Radu",
+      url: "/en/community/the-girl-who-left",
     }
 
 # Customize site text
