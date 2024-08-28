@@ -1,7 +1,7 @@
 ---
 layout: story-comunitate
 footer-note: "Story written at the creative writing workshop of the Voice Your Place Summer School: Curtea de Argeș."
-title: Tic-Tac!
+title: Tick-Tock!
 author: Alexia Jianu
 permalink: /en/community/tic-tac
 ---

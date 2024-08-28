@@ -60,6 +60,13 @@ social-partners:
       alt: "Parteneri si sponsori",
     }
 
+en-social-partners:
+  - {
+      name: "Partners & Sponsors",
+      image: "en-partners-sponsors.png",
+      alt: "Partners & Sponsors",
+    }
+
 en-community:
   - {
       front: "en-comunitate-front-1.jpg",

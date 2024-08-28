@@ -7,6 +7,7 @@ permalink: /ro/comunitate/leat-6838
 ---
 
 <p style='text-align: right;'> 2 răpciune, leat 6838 </p>
+<br>
 
 — Măria ta, am primit veste grabnică cum că ungurii plănuiesc să ne pătrundă meleagurile, coborând din Țara Ardelului, pentru că domnia ta a refuzat să mai dea zălog cei 147.000 de ducați! <br>
 — De ce ai spus se adeverește, vei fi onorat. Alminterea, de mă trădezi, vei fi adăpat împreună cu iapa! <br>
@@ -15,6 +16,7 @@ permalink: /ro/comunitate/leat-6838
 — Cini o să îndrăznească a trece prin fața noauă o s-ajungă cimillituri, măria ta! <br>
 
 <p style='text-align: right;'> 12 răpciune, leat 6838 </p>
+<br>
 Soața mea dragă,
 
 Năcaz mare de pârgarii cari au cugetat să încalce meleagurile noauă. Nime n-o să treacă, doar ostași morți. <br>
@@ -26,6 +28,7 @@ Fii muiare bună, <br>
 Grigorie, pârcălab, boier
 
 <p style='text-align: right;'> 16 răpciune, leat 6838</p>
+<br>
 
 Io, Basarabă, mare voivod al Valahiei, fiu al lui Tihomir, deasupra tutoror voivozilor și cnejilor, întregitorul tutoror obștilor și cnezatelor de la Carpați până la Dunăre, am biruit la Posada, îndeosebi cu ajutorul tutoror adunărilor obștești, împotriva pârgarilor de unguri conduși de însuși Regele Carol Robert de Anjou. <br>
 Astfel, mă declar, cu ajutorul întru-bunului, tatăl ceresc, domn al Țării Românești deasupra tutoror voivozilor, ban al Severinului și hărțeag al Amlașului și Făgărașului.

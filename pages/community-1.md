@@ -19,4 +19,3 @@ It's winter. You don't need an introduction, you know they're there even without
 You let more time pass. It's autumn again. But there's a change. There are only two girls now. You wonder what happened to the third.
 
 You know we miss her, but we'll see her again in the summer. And if you come back in a year, the bench will be empty. In ten, we'll come back as "tourists with memories" and I'll want to go back in time, to sit on that bench with my two friends.
-
