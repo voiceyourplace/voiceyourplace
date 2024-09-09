@@ -99,6 +99,61 @@
   text-align: justify;
 }
 
+// QR all
+
+.qr-all-list {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+}
+
+.qr-all-list img {
+  max-width: 150px;
+}
+
+.qr-all-list a {
+  text-decoration: underline;
+  margin-top: 10%;
+  width: 100%;
+  text-align: center;
+}
+
+.qr-all-list p {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: white;
+}
+
+.qr-all-rounded-button {
+  border-radius: 20px;
+  border: 1px solid white;
+  background-color: #25215e;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.qr-all-rounded-button p:nth-child(1) {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.qr-all-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+}
+
 @media (max-width: $container-width) {
   .qr-footer {
     flex-direction: column;
