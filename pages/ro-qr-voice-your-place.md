@@ -6,5 +6,5 @@ play-description: Ascultă episodul
 pin-description: Locație
 footer-description-headline: Mai multe despre
 footer-description: Audio ghidul Voice Your Place
-permalink: /ro/qr/voice-your-place
+permalink: /ro/qr/curtea-de-arges
 ---

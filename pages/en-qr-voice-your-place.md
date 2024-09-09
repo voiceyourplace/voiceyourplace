@@ -6,5 +6,5 @@ play-description: Play episode
 pin-description: Location
 footer-description-headline: More about
 footer-description: The Voice Your Place Audio Guide
-permalink: /en/qr/voice-your-place
+permalink: /en/qr/curtea-de-arges
 ---
