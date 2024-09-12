@@ -40,7 +40,7 @@
 
 .qr-list a {
   text-decoration: underline;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 100%;
   text-align: center;
 }
@@ -107,6 +107,7 @@
   flex-direction: column;
   align-items: center;
   width: 90%;
+  gap: 20px;
 }
 
 .qr-all-list img {
@@ -126,7 +127,14 @@
   color: white;
 }
 
+.qr-all-description {
+  text-align: center;
+  font-size: 18px;
+  width: 80%;
+}
+
 .qr-all-rounded-button {
+  width: 80%;
   border-radius: 20px;
   border: 1px solid white;
   background-color: #25215e;
@@ -147,11 +155,22 @@
 
 .qr-all-images {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
   align-items: center;
   flex-direction: row;
   width: 100%;
+}
+
+.qr-all-images a {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  width: auto;
+  gap: 5%;
+  flex-grow: 1;
+}
+
+.qr-all-images p {
+  font-size: 16px;
 }
 
 @media (max-width: $container-width) {
