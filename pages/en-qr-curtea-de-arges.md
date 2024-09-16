@@ -1,6 +1,6 @@
 ---
 layout: en-qr-all
-description: Heritage buildings included in the Voice Your Place audio guide
+description: Discover the heritage buildings included in the Voice Your Place audio guide
 image: casti-audio-ghid.svg
 nicolae-domnesc-title: The Royal Church of St. Nicholas
 nicolae-domnesc-audio: /en/biserica-domneasca

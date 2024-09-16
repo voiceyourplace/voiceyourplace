@@ -1,6 +1,6 @@
 ---
 layout: ro-qr-all
-description: Clădiri de patrimoniu cuprinse în audio ghidul Voice Your Place
+description: Descoperă clădirile de patrimoniu cuprinse în audio ghidul Voice Your Place
 image: casti-audio-ghid.svg
 nicolae-domnesc-title: Biserica Sf. Nicolae Domnesc
 nicolae-domnesc-audio: /ro/biserica-domneasca

@@ -127,9 +127,20 @@
   color: white;
 }
 
+.lang-nav {
+  width: 105%;
+  text-align: right;
+}
+
+.lang-nav a {
+  text-decoration: underline;
+  margin-top: 0%;
+  color: white;
+}
+
 .qr-all-description {
   text-align: center;
-  font-size: 18px;
+  font-size: 14px;
   width: 80%;
 }
 
@@ -164,13 +175,11 @@
   display: flex;
   align-items: center;
   flex-direction: row;
-  width: auto;
-  gap: 5%;
-  flex-grow: 1;
 }
 
 .qr-all-images p {
-  font-size: 16px;
+  font-size: 14px;
+  margin-left: 5%;
 }
 
 @media (max-width: $container-width) {
