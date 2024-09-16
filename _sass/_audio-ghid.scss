@@ -537,3 +537,82 @@
     color: #ffffff;
   }
 }
+
+// TEST
+
+.media-player {
+  text-align: center;
+  color: white;
+}
+
+.progress-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.current-time,
+.total-time {
+  font-size: 14px;
+  margin: 0 10px;
+}
+
+.progress-bar {
+  width: 300px;
+  height: 5px;
+  background-color: #ccc;
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: -2px; /* Adjust the bullet alignment */
+}
+
+.progress-bar::-webkit-slider-runnable-track {
+  height: 5px;
+  background: #fff;
+  border-radius: 5px;
+}
+
+.progress-bar::-webkit-slider-thumb {
+  width: 12px;
+  height: 12px;
+  background: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+  position: relative;
+  top: -3px; /* Center the thumb on the track */
+}
+
+.progress-bar::-moz-range-thumb {
+  width: 12px;
+  height: 12px;
+  background: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+  top: -3px; /* Center the thumb on the track */
+}
+
+.play-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.play-button {
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  color: #2d2a7a;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  cursor: pointer;
+}
