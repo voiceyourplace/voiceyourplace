@@ -538,9 +538,10 @@
   }
 }
 
-// TEST
+// Media Player
 
 .media-player {
+  margin-top: 5%;
   text-align: center;
   color: white;
 }
@@ -615,4 +616,17 @@
   align-items: center;
   font-size: 30px;
   cursor: pointer;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.play-button img {
+  max-width: 30px;
+}
+
+.play-button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3);
 }

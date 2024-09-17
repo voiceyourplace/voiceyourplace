@@ -25,7 +25,37 @@ layout: default-audio-guide
         </a>
       </div>
     </div>
-    <iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1661758515&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+  <div class="media-player">
+    <div class="progress-container">
+      <span class="current-time" id="current-time">0:00</span>
+      <input
+        type="range"
+        min="0"
+        max="100"
+        value="0"
+        class="progress-bar"
+        id="progress-bar"
+      />
+      <span class="total-time" id="total-time">0:00</span>
+    </div>
+    <div class="play-button-container">
+      <div class="play-button" id="play-button">
+        <span id="play-icon">
+          <img src="/assets/img/play-button.png"> </img>
+        </span>
+        <span id="pause-icon" style="display: none">
+          <img src="/assets/img/pause-button.png"> </img>
+        </span>
+      </div>
+    </div>
+    <audio id="audio" src="/assets/audio/VYP_Ep1_Ruina_RO_compressed.mp3"></audio>
+  </div>
+
+    <script src="/assets/js/script.js"></script>
+
+
+
     <div class="next-button">
       <div class="next-button-description">
         <p> Următorul episod: </p>
