@@ -1,6 +1,6 @@
 ---
 layout: olari
-title: Biserica Adormirea Maicii Domnului Olari
+title: Biserica Olari
 image: casti-audio-ghid.svg
 permalink: /ro/olari
 ---
