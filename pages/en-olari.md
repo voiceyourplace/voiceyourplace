@@ -1,6 +1,6 @@
 ---
 layout: en-olari
-title: The Church of the Assumption of Mary - Olari
+title: The Olari Church
 image: casti-audio-ghid.svg
 permalink: /en/olari
 ---
