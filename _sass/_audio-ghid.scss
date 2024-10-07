@@ -103,7 +103,7 @@
     width: 100%;
     align-items: center;
     justify-content: center;
-    gap: 10%;
+    gap: 21%;
   }
 
   .audio-image img:nth-child(1) {
@@ -361,7 +361,8 @@
     line-height: 25.6px;
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 16px;
+    font-size: 14px;
+    text-align: justify;
   }
 
   .audio-video-wrapper iframe {
@@ -454,10 +455,11 @@
     display: flex;
     padding-top: 20px;
     margin-bottom: 10px;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 38.4px;
     color: #ffffff;
     width: 80%;
+    justify-content: center;
   }
 
   .audio-video-episod {
@@ -466,7 +468,7 @@
     text-align: start;
     width: 80%;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 40.2px;
     color: #ffffff;
   }
@@ -474,6 +476,7 @@
   .audio-video-episod p {
     margin-top: 0;
     margin-bottom: 10px;
+    text-align: center;
   }
 
   .audio-video-episod a {
