@@ -1,5 +1,5 @@
 ---
-layout: story-comunitate
+layout: story-community
 footer-note: "Story written at the creative writing workshop of the Voice Your Place Summer School: Curtea de Argeș."
 title: The Capture of the Fortress
 author: Radu Răducanu
@@ -17,4 +17,3 @@ Then, out of nowhere, my sister jumps in front of the car. Worried about the tim
 
 The car came to a screeching halt. The driver got out, helped me up and rushed me to the hospital.
 In other times, other souls have lived their sad or beautiful stories at the ruins of St. Nicoară Church. I too have added to the place a moment from my personal history that no one will ever know about, just as I don't know about what happened a hundred years ago.
-

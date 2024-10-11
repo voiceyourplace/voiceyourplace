@@ -1,5 +1,5 @@
 ---
-layout: story-comunitate
+layout: story-community
 footer-note: "Story written at the creative writing workshop of the Voice Your Place Summer School: Curtea de Argeș."
 title: With Longing, to the Doll that Broke
 author: Mădălina Niță
