@@ -1,5 +1,5 @@
 const playButton = document.getElementById("play-button");
-const playIcon = document.getElementById("play-icon");
+const playIcon = document.getElementsByClassName("play-icon")[0];
 const pauseIcon = document.getElementById("pause-icon");
 const progressBar = document.getElementById("progress-bar");
 const currentTimeElement = document.getElementById("current-time");
